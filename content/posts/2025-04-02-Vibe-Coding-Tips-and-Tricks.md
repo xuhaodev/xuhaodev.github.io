@@ -6,18 +6,19 @@ categories:
 tags: 
   - Tips and Tricks
 ---
+![vibe](/img/vibe.png)
 
+Reflections after 30 days of using **GitHub Copilot Agent**. Base on my vibe coding project: 
 
-Reflections after 30 days of using **GitHub Copilot Agent**.
-
-My vibe coding project: live App **[Agentic AI Apps](https://haxu.dev/)**. And code repo -> **[Agentic AI Apps Repo](https://github.com/xuhaodev/agentic-ai-app)**
+  - Live App -> **[Agentic AI Apps](https://haxu.dev/)**
+  - Code repo -> **[Agentic AI Apps Repo](https://github.com/xuhaodev/agentic-ai-app)**
 
 This project is a demonstration and experimental modern application of AI agents. It features a variety of agent types, including **Instruction Agents**, **Function Call Agents**, **Workflow Agents**, and **MCP Agents**.
 
 The project contains **over 60 code files** and uses a **distributed deployment approach**. The entire application development process was driven by me providing requirements in **natural language**, while **GitHub Copilot Agent** handled the coding.
 
 
-#### **Technology Stack**:
+#### **Technology Stack Includes**:
 
 - **Framework**: Next.js, Typescript, Python, Tailwind CSS, Copilotkit, Langchain
 - **AI Models**: GPT-4o, GPT-4o-mini, GPT-o3-mini, Deepseek v3, Deepseek-r1 from GitHub Models and Azure OpenAI
