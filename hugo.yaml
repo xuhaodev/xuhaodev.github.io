@@ -8,7 +8,7 @@ enableInlineShortcodes: true # shortcode，类似于模板变量，可以在写 
 hasCJKLanguage: true # 是否有 CJK 的字符
 enableRobotsTXT: true # 允许生成 robots.txt
 buildDrafts: false # 构建时是否包括草稿
-buildFuture: false # 构建未来发布的内容
+buildFuture: true # 构建未来发布的内容
 buildExpired: false # 构建过期的内容
 enableEmoji: true # 允许 emoji
 pagination.pagerSize: 5 #5篇文章翻页

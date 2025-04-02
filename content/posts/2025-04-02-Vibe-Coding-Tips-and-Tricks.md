@@ -6,41 +6,39 @@ categories:
 tags: 
   - Tips and Tricks
 ---
-
 Reflections after 30 days of using GitHub Copilot Agent.
 
-My vibe coding project: [Agentic AI Apps](https://haxu.dev/) live App. And code is here -> [GitHub Repo](https://github.com/xuhaodev/agentic-ai-app) 
+My vibe coding project: [Agentic AI Apps](https://haxu.dev/) live App. And code is here -> [GitHub Repo](https://github.com/xuhaodev/agentic-ai-app)
 This project is a modern demonstration and experimental application of AI agents. It features a variety of agent types, including Instruction Agents, Function Call Agents, Workflow Agents, and MCP Agents.
 The project contains over 60 code files and uses a distributed deployment approach. The entire application development process was driven by me providing requirements in natural language, while GitHub Copilot Agent handled the coding.
 
 **Technology Stack**:
 **Framework**: Next.js, Typescript, Python, Tailwind CSS， Copilotkit, Langchain
-**AI Models**: GPT-4o, GPT-4o-mini, GPT-o3-mini, Deepseek v3, Deepseek-r1 from GitHub Models and Azure OpenAI  
+**AI Models**: GPT-4o, GPT-4o-mini, GPT-o3-mini, Deepseek v3, Deepseek-r1 from GitHub Models and Azure OpenAI
 **Deployment**: Azure Web Apps, Azure Function, Azure container registry, GitHub Action
 
 ### Transformations We Must Embrace Today:
 
-- Embrace abstraction rather than getting lost in details.  
-- Focus on solving problems rather than controlling every aspect.  
+- Embrace abstraction rather than getting lost in details.
+- Focus on solving problems rather than controlling every aspect.
 - Pursue continuous iteration rather than achieve success in one go.
 - Achieve rapid usability rather than striving for flawless polish.
 
 ### Learn from the journey
 
-- Precise requirement descriptions and industry-specific terminology remain crucial.  
-- Use modern frameworks following the principles of low coupling and high cohesion; aim to keep each file under 1,000 lines.  
-- As projects grow, focus on editing individual files rather than having an agent process the entire codebase.  
-- Consistency can be challenging, so implementing an effective undo mechanism and rollback strategy is essential.  
-- Version control is vital—always maintain a stable version before iterating.  
-- In AI agent programming, every element (file names, comments, strings, variable names, function names) provides important context.  
-- When runtime failures occur, the model might generate extensive check outputs; however, the root cause could lie elsewhere.  
-- Providing models with references and examples is equally important.  
-- Be cautious when requiring an agent to perform refactoring; ensure the scope is well-defined.  
-- Sometimes, knowing when to abandon a nonproductive approach is more important than persisting indefinitely.  
-- Allow agents to run tests, including unit tests and UI tests.  
-- AI agent development should avoid any human path dependencies.  
+- Precise requirement descriptions and industry-specific terminology remain crucial.
+- Use modern frameworks following the principles of low coupling and high cohesion; aim to keep each file under 1,000 lines.
+- As projects grow, focus on editing individual files rather than having an agent process the entire codebase.
+- Consistency can be challenging, so implementing an effective undo mechanism and rollback strategy is essential.
+- Version control is vital—always maintain a stable version before iterating.
+- In AI agent programming, every element (file names, comments, strings, variable names, function names) provides important context.
+- When runtime failures occur, the model might generate extensive check outputs; however, the root cause could lie elsewhere.
+- Providing models with references and examples is equally important.
+- Be cautious when requiring an agent to perform refactoring; ensure the scope is well-defined.
+- Sometimes, knowing when to abandon a nonproductive approach is more important than persisting indefinitely.
+- Allow agents to run tests, including unit tests and UI tests.
+- AI agent development should avoid any human path dependencies.
 - Embrace a "vibe coding" approach and continuous deployment—prioritize practical, functional solutions over excessive detail orientation.
-
 
 ### 今天我们需要做出改变：
 
