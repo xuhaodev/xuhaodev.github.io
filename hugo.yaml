@@ -140,7 +140,7 @@ params:
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/xuhaodev"
 
   analytics:
     google:
