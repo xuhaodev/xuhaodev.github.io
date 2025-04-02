@@ -6,6 +6,7 @@ categories:
 tags: 
   - Tips and Tricks
 ---
+Reflections after 30 days of using GitHub Copilot Agent. test
 
 ![vibe-coding](/images/vibe-coding.png)
 
@@ -33,6 +34,7 @@ The project contains **over 60 code files** and uses a **distributed deployment 
 
 ### Learn from the journey
 
+<<<<<<< HEAD
 - **Precise Descriptions**: Clear and accurate prompts are essential, as is dev framework terminology.
 - **Adopt Modern Frameworks**: Prioritize modern frameworks and adhere to the principles of low coupling and high cohesion. Limit each file to no more than 1,000 lines.
 - **Agent or Edits**: As the project gets larger, it is actually the selection file that carries the Edits more than the Agent for the entire codebase.
@@ -50,6 +52,22 @@ The project contains **over 60 code files** and uses a **distributed deployment 
 
 ===
 
+=======
+- Precise requirement descriptions and industry-specific terminology remain crucial.
+- Use modern frameworks following the principles of low coupling and high cohesion; aim to keep each file under 1,000 lines.
+- As projects grow, focus on editing individual files rather than having an agent process the entire codebase.
+- Consistency can be challenging, so implementing an effective undo mechanism and rollback strategy is essential.
+- Version control is vital—always maintain a stable version before iterating.
+- In AI agent programming, every element (file names, comments, strings, variable names, function names) provides important context.
+- When runtime failures occur, the model might generate extensive check outputs; however, the root cause could lie elsewhere.
+- Providing models with references and examples is equally important.
+- Be cautious when requiring an agent to perform refactoring; ensure the scope is well-defined.
+- Sometimes, knowing when to abandon a nonproductive approach is more important than persisting indefinitely.
+- Allow agents to run tests, including unit tests and UI tests.
+- AI agent development should avoid any human path dependencies.
+- Embrace a "vibe coding" approach and continuous deployment—prioritize practical, functional solutions over excessive detail orientation.
+
+>>>>>>> 7378254 (更新《Vibe Coding Tips and Tricks》文章，修正文本格式并添加内容)
 ### 今天我们需要做出改变：
 
 - 理解抽象，而不是沉溺细节
