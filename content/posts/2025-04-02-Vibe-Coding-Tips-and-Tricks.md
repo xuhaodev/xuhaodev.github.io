@@ -8,9 +8,9 @@ tags:
 ---
 Reflections after 30 days of using **GitHub Copilot Agent**.
 
-My vibe coding project: **[Agentic AI Apps](https://haxu.dev/)** live App. And code is here -> **[GitHub Repo](https://github.com/xuhaodev/agentic-ai-app)**
+My vibe coding project: live App **[Agentic AI Apps](https://haxu.dev/)**. And code repo -> **[Agentic AI Apps Repo](https://github.com/xuhaodev/agentic-ai-app)**
 
-This project is a modern demonstration and experimental application of AI agents. It features a variety of agent types, including **Instruction Agents**, **Function Call Agents**, **Workflow Agents**, and **MCP Agents**.
+This project is a demonstration and experimental modern application of AI agents. It features a variety of agent types, including **Instruction Agents**, **Function Call Agents**, **Workflow Agents**, and **MCP Agents**.
 
 The project contains **over 60 code files** and uses a **distributed deployment approach**. The entire application development process was driven by me providing requirements in **natural language**, while **GitHub Copilot Agent** handled the coding.
 
@@ -41,6 +41,8 @@ The project contains **over 60 code files** and uses a **distributed deployment 
   - Allow agents to run tests, including unit tests and UI tests.
   - AI agent development should avoid any human path dependencies.
   - Embrace a "vibe coding" approach and continuous deployment—prioritize practical, functional solutions over excessive detail orientation.
+
+=== 
 
 ### 今天我们需要做出改变：
 
