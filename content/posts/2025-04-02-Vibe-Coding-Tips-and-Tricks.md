@@ -28,19 +28,20 @@ The project contains **over 60 code files** and uses a **distributed deployment 
 
 ### Learn from the journey
 
-  - Precise requirement descriptions and industry-specific terminology remain crucial.
-  - Use modern frameworks following the principles of low coupling and high cohesion; aim to keep each file under 1,000 lines.
-  - As projects grow, focus on editing individual files rather than having an agent process the entire codebase.
-  - Consistency can be challenging, so implementing an effective undo mechanism and rollback strategy is essential.
-  - Version control is vital—always maintain a stable version before iterating.
-  - In AI agent programming, every element (file names, comments, strings, variable names, function names) provides important context.
-  - When runtime failures occur, the model might generate extensive check outputs; however, the root cause could lie elsewhere.
-  - Providing models with references and examples is equally important.
-  - Be cautious when requiring an agent to perform refactoring; ensure the scope is well-defined.
-  - Sometimes, knowing when to abandon a nonproductive approach is more important than persisting indefinitely.
-  - Allow agents to run tests, including unit tests and UI tests.
-  - AI agent development should avoid any human path dependencies.
-  - Embrace a "vibe coding" approach and continuous deployment—prioritize practical, functional solutions over excessive detail orientation.
+  - **Precise Descriptions**: Clear and accurate prompts are essential, as is dev framework terminology.
+  - **Adopt Modern Frameworks**: Prioritize modern frameworks and adhere to the principles of low coupling and high cohesion. Limit each file to no more than 1,000 lines.  
+  - **Agent or Edits**: As the project gets larger, it is actually the selection file that carries the Edits more than the Agent for the entire codebase.
+  - **Consistency with Rollback Strategies**: Inconsistencies may arise in larger projects, making 'undo' functionality and strong rollback strategies indispensable.  
+  - **Start from Workable**: Version control is important, keep a workable version before iterating.
+  - **Context Matters for AI Agents**: File names, comments, strings, variables, and function names all serve as critical context for AI-driven programming.   
+  - **Agent Wrong or Human Wrong?**: The model keeps increasing the check output when the run fails, but it is possible that the problem lies elsewhere.
+  - **Provide Sufficient and Useful Example**: Providing Agent with well-designed examples and meaningful references greatly improves their performance.  
+  - **Controlled Refactoring by Agents**: Be cautious when assigning refactoring tasks to agents. Clearly define and limit the scope of changes.  
+  - **Know When to Let Go**: Recognize when abandoning an unproductive approach is more efficient than persisting with repeated attempts.  
+  - **Use AI to Test AI**: Let the agent do the testing, unit test yes, UI test also.
+  - **"It Works" is Top Priority**: Prioritize continuous deployment and functional utility over well prepare. If it works, it’s good enough.  
+  - **Avoid Path Dependency**: Vibe Coder to try to avoid path dependency in thinking and methodology.
+  - **Free Yourself**: Vibe Coder should avoid getting caught up in unnecessary details or overly dwelling on insignificant matters.
 
 === 
 
@@ -64,6 +65,6 @@ The project contains **over 60 code files** and uses a **distributed deployment 
   - 要求Agent重构需谨慎，范围需要控制。
   - 及时放弃有时候比不断尝试更重要。
   - 让agent来做测试，unit test是，UI test也是。
-  - Agent的世界来不得半点路径依赖。
   - Vibe coding，持续部署，能用就是好的。
-  - 克制自己深入细节。
+  - Vibe Coder要尽量避免思维和方法论上的路径依赖。
+  - Vibe Coder要克制自己陷入细节和计较无所谓的东西。
