@@ -6,7 +6,7 @@ categories:
 tags: 
   - Tips and Tricks
 ---
-Reflections after 30 days of using GitHub Copilot Agent. test
+Reflections after 30 days of using GitHub Copilot Agent. 
 
 ![vibe-coding](/images/vibe-coding.png)
 
