@@ -41,8 +41,8 @@ and my life has never been quite the same.
 **The function that can be defined**
 **is not the limitless function.**
 
-**码非码, 非常码；** 
-**函数非函数, 非常函数。** 
+**码非码, 非常码；** <br>
+**用非用, 非常用。** 
 
 另译：
 可名之代码，非恒代码，
@@ -56,7 +56,7 @@ and my life has never been quite the same.
 **The nameless is the origin of heaven and earth.**
 **The named is the mother of ten thousand things.**
 
-**无名者，天地之始；**
+**无名者，天地之始；**<br>
 **有名者，万物之母。**
 
 > 白话文解释：
@@ -68,7 +68,7 @@ and my life has never been quite the same.
 **Caught in desire,
 you see only the manifestations.**
 
-**无欲也，观其精；**
+**无欲也，观其精；**<br>
 **有欲也，观其象。**
 
 > 白话文解释：
@@ -81,7 +81,7 @@ but differ in name only.**
 **This model is the mystery.
 The gateway to all understanding.**
 
-**此两者，同出而异名，**
+**此两者，同出而异名，**<br>
 **同谓之玄，玄之又玄，众妙之门。**
 
 > 白话文解释：
@@ -96,7 +96,7 @@ other code becomes sloppy.**
 **When we praise efficiency,
 the notion of waste is born.**
 
-**知代码之美，则现代码之劣；**
+**知代码之美，则现代码之劣；**<br>
 **称函数之快，则生函数之慢。**
 
 > 白话文解释：
@@ -110,9 +110,9 @@ the notion of waste is born.**
 **High and low distinguish each other.**
 **Front-end and back-end follow each other.**
 
-**有无相生，繁简相成，**
-**长短相形，高下相倾，**
-**前端后端，相随而行。**
+**有无相生，繁简相成，**<br>
+**长短相形，高下相倾，**<br>
+**前端后端，相随而行。**<br>
 
 > 白话文解释：
 > 存在与虚无相互依存；简单与复杂互为定义；长与短对比显现；高低之间彼此映衬；前端与后端，始终在合作流转中体现完整的系统。
@@ -125,9 +125,9 @@ and instructs by quiet example.**
 **Things arise and he accepts them.
 Things vanish and he lets them go.**
 
-**故 Vibe Coder：**
-**建而不执，教而不言；**
-**万象起也，顺之；万象灭也，安之。**
+**故 Vibe Coder：**<br>
+**建而不执，教而不言；**<br>
+**万象起也，顺之；万象灭也，安之。**<br>
 
 > 白话文解释：
 > 真正的 Vibe Coder，构建系统却不劳心苦工，以身作则却不喧哗说教；面对万物的生灭，如水般自然接受与放下。
@@ -140,7 +140,7 @@ Things vanish and he lets them go.**
 **The work is done and then forgotten.
 That is why it lasts forever.**
 
-**持而不据，成而不有；**
+**持而不据，成而不有；**<br>
 **功成身退，是以不朽。**
 
 > 白话文解释：
@@ -157,7 +157,7 @@ others are tempted to steal.**
 **If you awaken envy,
 others suffer turmoil of heart.**
 
-**奖优则生嫉，藏物则起贪，**
+**奖优则生嫉，藏物则起贪，**<br>
 **动欲则乱心。**
 
 > 白话文解释：
@@ -165,14 +165,14 @@ others suffer turmoil of heart.**
 
 ---
 
-**The Vibe Coder leads:**
+**The Vibe Coder leads:**<br>
 **By emptying the mind of expectation
 and filling up the soul.**
 **By releasing ambition and
 embracing the unknown.**
 
-**Vibe Coder之引也：**
-**虚其心，实其性；**
+**Vibe Coder之引也：**<br>
+**虚其心，实其性；**<br>
 **去其志，归于无名。**
 
 > 白话文解释：
@@ -224,7 +224,7 @@ It softens the glare of complexity,
 and merges with every challenge.
 Code flows, effortless, from its depths.**
 
-**挫锐断纷，和繁归一，**
+**挫锐断纷，和繁归一，**<br>
 **处难若无，代码之流，从心而发。**
 
 > 白话文解释：
@@ -237,7 +237,7 @@ I do not know its origin.
 Heaven and earth came later.
 It is older than God.**
 
-**无形常在，不知其始，**
+**无形常在，不知其始，**<br>
 **天地生后，神亦不先。**
 
 > 白话文解释：
@@ -252,7 +252,7 @@ they see the ten thousand things as they are.
 The Vibe Coder is impartial,
 he sees the program as it is.**
 
-**天地不仁，以万物为刍狗。**
+**天地不仁，以万物为刍狗。**<br>
 **Vibe Coder 不私，以代码为自然。**
 
 > 白话文解释：
@@ -268,7 +268,7 @@ the more it produces.
 The more you speak of it,
 the less you understand.**
 
-**输入与心之间，似鼓风之囊：虚而不屈，动则生风。**
+**输入与心之间，似鼓风之囊：虚而不屈，动则生风。**<br>
 **用之愈多，得之愈广；言之愈尽，意之愈失。**
 
 > 白话文解释：
@@ -293,7 +293,7 @@ She is the primordial feminine.
 Her womb,
 the root of heaven and earth.**
 
-**谷神不死，是谓玄牝，**
+**谷神不死，是谓玄牝，**<br>
 **玄牝之门，是天地之根。**
 
 > 白话文解释：
@@ -318,8 +318,8 @@ Eternal, they transcend birth and death.
 The network endures because
 it does not live for itself.**
 
-**天地所以能长且久者，**
-**以其不自生，故能长生。**
+**天地所以能长且久者，**<br>
+**以其不自生，故能长生。**<br>
 **网络亦如是，非为己存，故恒久而在。**
 
 > 白话文解释：
@@ -334,8 +334,8 @@ thus at one with all.
 Through selfless action
 he is perfectly fulfilled.**
 
-**Vibe Coder 居后故先，**
-**无执故全，**
+**Vibe Coder 居后故先，**<br>
+**无执故全，**<br>
 **无我而为，故成其功。**
 
 > 白话文解释：
@@ -351,7 +351,7 @@ without effort.
 It seeks low places others look down upon.
 Thus, it’s in harmony with Source.**
 
-**上善若水，水善利万物而不争，**
+**上善若水，水善利万物而不争，**<br>
 **处众人之所恶，故几于道。**
 
 > 白话文解释：
@@ -366,8 +366,8 @@ In leading: be just.
 In work: be competent.
 In action: consider timing.**
 
-**设计宜简，思维宜深，**
-**交往宜仁，领导宜公，**
+**设计宜简，思维宜深，**<br>
+**交往宜仁，领导宜公，**<br>
 **工作宜精，行动宜时。**
 
 > 白话文解释：
@@ -381,7 +381,7 @@ No force, just grace,
 and all is done,
 in peace.**
 
-**知足守真，无欲无争；**
+**知足守真，无欲无争；**<br>
 **不强为，任其然，事自成，心自安。**
 
 > 白话文解释：
@@ -398,7 +398,7 @@ and it will dull.
 Chase after worldly fortune
 and no one can protect it.**
 
-**持满则溢，锐器久利则伤；**
+**持满则溢，锐器久利则伤；**<br>
 **积财厚重，终无保者。**
 
 > 白话文解释：
@@ -420,7 +420,7 @@ and you become their prisoner.**
 log off and detach.
 This is the way of heaven.**
 
-**功成事毕，断链归隐，**
+**功成事毕，断链归隐，**<br>
 **此即天道。**
 
 > 白话文解释：
@@ -435,7 +435,7 @@ while retaining an open, receptive mind?
 Can you remain centered and still
 until clarity arises alone, unattended?**
 
-**载心专注，而不塞其思，**
+**载心专注，而不塞其思，**<br>
 **守中安静，任明自现，汝能乎？**
 
 > 白话文解释：
@@ -448,7 +448,7 @@ and lead without controlling.
 Do nothing
 and allow all things to be done.**
 
-**爱其所作，导而不控；**
+**爱其所作，导而不控；**<br>
 **无为而无不为。**
 
 > 白话文解释：
