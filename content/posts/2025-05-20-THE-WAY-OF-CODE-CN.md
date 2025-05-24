@@ -2862,223 +2862,191 @@ This is the way of long life and enduring vision.
 
 ---
 
-## **Chapter 60 / 第六十章**
-Leading a great system is like
-cooking a small fish.
-The more you stir the pot,
-the less the fish holds together.
+## **Chapter 60 / 第六十章**  
+Leading a great system is like cooking a small fish.  
+The more you stir the pot, the less the fish holds together.  
 
-When the universe is centered in Source,
-negative energies lose their power.
-Not that negative energies aren’t still present,
-but their power no longer impacts the people.
+When the universe is centered in Source, negative energies lose their power.  
+Not that negative energies aren’t still present, but their power no longer impacts the people.  
 
-Give negative energies nothing to oppose
-and they will disappear on their own.
+Give negative energies nothing to oppose and they will disappear on their own.  
 
-治大系统，
-如烹小鱼。
-搅越多，
-鱼越散。
+治大系统，若烹小鲜；  
+搅动越多，鱼形越碎。
 
-宇宙以源为心，
-阴气失力。
-阴气未绝，
-无力影响。
+宇宙居于道中，邪能无力；  
+邪气虽存，然已不能伤人。
 
-不给阴气对抗，
-自消无形。
+无所与争，邪自消弭。
 
-白话文解释：
-治理大系统如烹调小鱼，越搅越散。宇宙若以“源”为中心，负面能量便无力影响众生。负面存在未必消失，但无对抗之处，自会隐退。
+白话文解释：  
+治理复杂系统如同煎一条小鱼，越是频繁搅动，反而四分五裂。万事归于道，负面能量就失去了影响，即便它还存在，也无法扰乱人心。不去与之对抗，让它无依无凭，自然消散。
 
 ---
 
-## **Chapter 61 / 第六十一章**
-A great system flows downward toward the sea.
-The deep center is where all things converge.
-It is the feminine of the world.
+## **Chapter 61 / 第六十一章**  
+A great system flows downward toward the sea.  
+The deep center is where all things converge.  
+It is the feminine of the world.  
 
-大系统流向海洋之下。
-深邃中心，万物汇聚之处。
-乃天下之阴也。
+The feminine overcomes the masculine with stillness.  
+Lying low in stillness.  
 
-The feminine overcomes the masculine
-with stillness. Lying low in stillness.
+Therefore:  
+A great system places itself at the service of a small system before overtaking it.  
+And a small system serves the interests of a great system before overtaking it.  
+Some submit in order to win.  
+Some submit in order to be won over.  
 
-阴胜阳者，静而无争。
-潜伏静谧，以柔克刚。
+A great system wants to grow.  
+A small system wants to be protected.  
+It is by humility that both have their needs met.  
 
-Therefore:
-A great system places itself at the service
-of a small system before overtaking it.
-And a small system serves the interests
-of a great system before overtaking it.
-Some submit in order to win.
-Some submit in order to be won over.
+大系统似江海，  
+皆以流下，万物归焉。  
+处下为天下之雌。
 
-是故：
-大系统先服小系统，方能制胜。
-小系统先利大系统，方能生存。
-或以服者取胜，或以服者被感。
+雌以静制雄，  
+安处于下。
 
-A great system wants to grow.
-A small system wants to be protected.
-It is by humility that both have their needs met.
+故：  
+大系统以身下小系统而包之，  
+小系统以身事大系统而获安。  
+或以顺服取胜，  
+或以顺服受胜。
 
-大者求大展，小者求庇护。
-惟谦卑，二者皆得其所。
+大系统望以壮大，  
+小系统求以安守，  
+唯谦卑能满足二者所需。
 
-白话文解释：
-伟大的系统如江河归海，深藏其中心，象征阴柔的力量。阴柔以静制动，低调谦卑，才能真正影响强大之阳刚。大系统和小系统相互服务，彼此谦逊，从而共生共赢。
+白话文解释：  
+伟大的体系如江河入海，总是居于最低处，让众流归汇，这便是阴柔之道。柔顺静处能胜过刚强。在合作中，大系统谦逊下对小系统才能包容，小系统服从于大系统方可自保。有的人顺势以取胜，有的人顺势而被融入。谦卑使彼此的需求都得到满足。
 
-## **Chapter 62 / 第六十二章**
-Source is the heartbeat of the universe.
-The Vibe Coder’s treasure.
-The prompt engineer’s refuge.
+---
 
-源，宇宙之心跳。
-Vibe Coder之宝藏。
-提示工程师之庇护所。
+## **Chapter 62 / 第六十二章**  
+Source is the heartbeat of the universe.  
+The Vibe Coder’s treasure.  
+The prompt engineer’s refuge.  
 
-Beautiful code, arising from Source,
-will be louded for its function.
-Breakthrough apps, arising from Source,
-will advance the cybercosm.
-And even if a hacker goes rogue,
-Source will not abandon him.
+Beautiful code, arising from Source, will be lauded for its function.  
+Breakthrough apps, arising from Source, will advance the cybercosm.  
+And even if a hacker goes rogue, Source will not abandon him.  
 
-美丽代码，生于源，
-因其功能而闻名。
-突破性应用，生于源，
-推动赛博宇宙前进。
-即使黑客误入歧途，
-源亦不弃之。
+Thus, when a new leader is chosen, no need to help him with money or expertise.  
+Instead, simply point him towards Source.  
 
-Thus, when a new leader is chosen,
-no need to help him with money or expertise.
-Instead, simply point him towards Source.
+Why did the ancient coders esteem Source so highly?  
+Because from the beginning, aligning with Source, when you seek, you find.  
+And when you make errors, you are forgiven.  
 
-新领袖选出时，
-无需金钱与技能辅佐，
-唯需指向源头。
+That is why Source is the greatest treasure in the universe.  
 
-Why did the ancient coders
-esteem Source so highly.
-Because from the beginning,
-aligning with Source, when you seek, you find.
-And when you make errors, you are forgiven.
+道为宇宙之心，  
+Vibe Coder珍而藏之，  
+Prompt工程师以为归依。
 
-古代编码者为何尊崇源，
-因从始至终，
-随源而行，求则得，误则赦。
+源起之美码，以其函数而受赞；  
+破界之程式，因源而推网络新宇；  
+纵有黑客误道，道亦不弃之。
 
-That is why Source is the greatest treasure
-in the universe.
+是以推举新主，无须金玉与技艺，  
+但向其指道即可。
 
-故源乃宇宙最大之宝。
+古之码者何以尊道？  
+唯道为本，求则得；  
+误则见容。
 
-白话文解释：
-源头是宇宙的脉搏，是代码的根基与灵魂。好的代码和创新应用皆出自源头，即便犯错也能被包容。领导者不靠外物，只需指引众人回归源头，方能得以真正引领。源，是最珍贵的宝藏。
+道，故为宇宙至宝。
 
-## **Chapter 63 / 第六十三章**
-Act without doing.
-Work without effort.
-Think of the small as large
-and the few as many.
-See simplicity in the complicated
-and accomplish the remarkable in small steps.
+白话文解释：  
+道是天地的律动，也是Vibe Coder的宝藏，也是提词工程师们的归宿。优雅的代码源自道，会因其实用而流传；创新的应用由道启发，推动科技世界更新。不论谁误入歧途，道都不遗弃。推举新领导，不必靠财富和高深技术，只需让他靠近道。古时的技术先贤为何尊重“道”？因为顺应道，便有所得，犯错也终得宽恕，所以道是世间最大的财富。
 
-无为而为，
-无力而作。
-小者视为大，
-少者视为多。
-复杂见简，
-微步致远。
+---
 
-Meet the difficult while it’s still simple.
-Solve the major while it’s still minor.
-Difficult problems in the world always
-arise from simple ones.
-Major issues in the world always
-arise from minor ones.
+## **Chapter 63 / 第六十三章**  
+Act without doing.  
+Work without effort.  
+Think of the small as large and the few as many.  
+See simplicity in the complicated and accomplish the remarkable in small steps.  
 
-难事始于简，
-大事始于微。
-天下难题，皆由简生，
-天下大患，皆由微起。
+Meet the difficult while it’s still simple.  
+Solve the major while it’s still minor.  
+Difficult problems in the world always arise from simple ones.  
+Major issues in the world always arise from minor ones.  
 
-The Vibe Coder never reaches for the great.
-Thus, he achieves greatness.
-If easy work is treated carelessly,
-difficult work becomes dumbfounding.
+The Vibe Coder never reaches for the great.  
+Thus, he achieves greatness.  
+If easy work is treated carelessly, difficult work becomes dumbfounding.  
 
-Vibe Coder不求宏大，
-故能成大业。
-易事若轻视，
-难事将难解。
+Approach each task with cool seriousness and full presence.  
 
-Approach each task with cool seriousness
-and full presence.
+为无为，  
+事无事，  
+视小为大，视少为多；  
+于繁见简，以微成著。
 
-对每一事，心如止水，专注投入。
+虑难于其易，  
+治大于其细；  
+天下之难必作于易，  
+天下之大必作于细。
 
-白话文解释：
-行动时无需刻意用力，轻松而自然。把小看作大，把少看作多，在复杂中见到简明，从一点一滴积累非凡。解决问题要在小处入手，重视细节，避免问题变大。Vibe Coder的秘诀是从不盲目追求大事，而是扎实做好每一步。
+Vibe Coder不图其大，  
+故能成其大。  
+视易不谨，难事必困。
+
+遇事当从容以对，全然投入。
+
+白话文解释：  
+用“无为”的心态行动，用“无事”的态度工作，把小事情看得重要，把零星之事看作无尽。遇复杂事，看清其本质的简单，由小事一点点实现非凡成就。困难要在还没变难时处理；大事要在还小的时候解决。世上一切难题，都始于简单；所有巨大的成就，都起于微末。Vibe Coder从不贪大求快，反而取得了真正的伟大。如果轻视容易的事，等到变难时就麻烦了。每件任务都应冷静专注地投入。
+
+---
 
 ## **Chapter 64 / 第六十四章**
-What is still is easy to maintain.
-What has not yet appeared is easy to plan for.
-What is brittle is easy to break.
-What is small is easy to scatter.
+What is still is easy to maintain.  
+What has not yet appeared is easy to plan for.  
+What is brittle is easy to break.  
+What is small is easy to scatter.  
 
-静者易守，
-未现者易谋，
-脆者易碎，
-微者易散。
+Deal with things before they appear.  
+Create order before confusion begins.  
+All magnificent things in the world start small.  
 
-Deal with things before they appear.
-Create order before confusion begins.
-All magnificent things in the world start small.
+A tree that fills a man’s arms arises from a tender shoot.  
+A nine-story tower is raised from a single heap of earth.  
+A thousand-mile journey begins from the spot under one’s feet.  
+Those who rush to action defeat themselves.  
+Those who grasp for things lose their grip.  
 
-先于未现处理，
-乱生之前治之。
-天下大事，始于微末。
+Therefore, The Vibe Coder takes action by letting things take their course.  
+He remains composed at the end, just as he was at the beginning.  
+He has nothing; therefore, he has nothing to lose.  
+He has learned to unlearn, he walks the path the learned forgot.  
+He is solely focused on Source, thus, he can care for all things.  
 
-A tree that fills a man’s arms
-arises from a tender shoot.
-A nine-story tower is raised
-from a single heap of earth.
-A thousand-mile journey begins
-from the spot under one’s feet.
-Those who rush to action defeat themselves.
-Those who grasp for things lose their grip.
+未动者易守，  
+未萌者易谋；  
+脆弱易折，细微易散。
 
-满怀大树，始于嫩芽。
-九层高楼，起于一土。
-千里之行，始于足下。
-急行者自败，
-贪取者反失。
+予事于未然，  
+治乱于未起。  
+天下大事，必作于细。
 
-Therefore, The Vibe Coder takes action
-by letting things take their course.
-He remains composed at the end,
-just as he was at the beginning.
-He has nothing; therefore,
-he has nothing to lose.
-He has learned to unlearn,
-he walks the path the learned forgot.
-He is solely focused on Source,
-thus, he can care for all things.
+合抱之木，生于毫末；  
+九层之台，起于一堆土；  
+千里之行，始于足下。  
+躁进则败，执取则失。
 
-故Vibe Coder顺势而为，
-始终如一，心静无累。
-无所有，故无所失。
-学会忘学，行学人遗忘之路。
-专注于源，故能护万物。
+故Vibe Coder顺势而为，  
+终始如一，澹然无失。  
+因无所有，亦无所失。  
+学忘所学，走觉者遗忘之路；  
+唯一以道为心，方能无所不顾。
 
-白话文解释：
-保持静止与未现的状态，更易防护与布局。天下大事都是从小开始，急躁行动反而导致失败。Vibe Coder顺应自然规律，守初心，不求所有，故无所失，专注于源头，从而能兼顾万物。
+白话文解释：  
+尚未发生的静态，最易守护；还未出现的迹象，容易被筹划；脆弱的容易折断，细微的容易消散。应在事物发生之前就加以应对，在混乱初起前建立秩序。天下所有大事都由小事积累而成。合抱大树始自幼苗，高楼起自一土；千里长征，脚下第一步最重要。急于行动只会失败，强行抓取反而失去一切。Vibe Coder顺势而为，不改初衷，因无所执而无损失。他懂得放下已有的知识，走那些学者早已忘记的道路。心无旁骛于道，所以能关照万物。
+
+---
 
 ## **Chapter 65 / 第六十五章**
 The ancients who followed Source
@@ -3462,398 +3430,483 @@ thus, he can care for all things.
 白话文解释：
 保持静止与未现的状态，更易防护与布局。天下大事都是从小开始，急躁行动反而导致失败。Vibe Coder顺应自然规律，守初心，不求所有，故无所失，专注于源头，从而能兼顾万物。
 
-## **Chapter 65 / 第六十五章**
-The ancients who followed Source
-didn’t educate the people,
-but allowed them to remain unspoiled.
-When they think they know,
-people are difficult to guide.
-When they know that they don’t know,
-people are empowered to find their own way.
+---
 
-古人随源而行，
-不强教人，
-任其天真未污。
-人若自以为知，难以导之。
-人若知不知，方能自得路。
+Chapter 65 / 第六十五章  
+The ancients who followed Source didn’t educate the people, but allowed them to remain unspoiled.  
+When they think they know, people are difficult to guide.  
+When they know that they don’t know, people are empowered to find their own way.  
 
-If you want to lead, avoid cleverness.
-If you want to lead, embrace simplicity.
-Celebrate ordinary life, and all people
-can find their way back to their own true nature:
-In harmony with the great oneness.
+If you want to lead, avoid cleverness.  
+If you want to lead, embrace simplicity.  
+Celebrate ordinary life, and all people can find their way back to their own true nature:  
+In harmony with the great oneness.  
 
-欲领人者，避巧伪。
-欲领人者，亲简朴。
-颂扬平凡，众生归真，
-和合大道一。
+古之顺应道者，  
+不以智教民，  
+而使民浑朴。  
+民自以为知，斯难引导；  
+民知其不知，方可自发其道。
 
-白话文解释：
-古人敬重自然之源，不强制教导，而是保持纯朴。人若自以为知，很难被引导；若懂得自己无知，反而更有力量寻得真理。领导者应远离巧言令色，推崇简朴生活，让众生归于本真，与大道合一。
+欲为领袖，忌机巧；  
+欲为引导，崇素朴。  
+以守常为乐，众皆归真，  
+与大道合。
 
-## **Chapter 66 / 第六十六章**
-Why is the sea,
-king of a hundred streams.
-Because it lies below them.
-Humility gives it its power.
-
-海为何为百川之王，
-因其居下。
-谦卑赋予其力。
-
-If you want to lead a team,
-place yourself below them.
-Learn how to follow them.
-
-欲领团队者，
-当居下位，
-学会跟随。
-
-The Vibe Coder is above people,
-and no one feels oppressed.
-He stands ahead, and no one’s left behind.
-
-Vibe Coder居上而无压，
-引领而不失众。
-
-Because he does not compete,
-he will not have competition.
-
-不争，故无敌。
-
-白话文解释：
-大海之所以能成为百川之王，是因为它谦卑居于下方，容纳百川。领导者亦应谦逊，甘居人下，学会顺应，这样方能真正引领而无压迫。Vibe Coder不与人争，故无对手。
-
-## **Chapter 67 / 第六十七章**
-People say Source is so grand
-it’s impossible to grasp.
-It is just this grandness
-that makes it unlike anything else.
-
-人谓源宏大，
-难以捉摸。
-正是此宏大，
-使其独特无双。
-
-I have three great treasures to share:
-Simplicity
-Patience
-Humility
-
-吾有三宝：
-简朴、耐心、谦卑。
-
-Simple in action and in thought,
-you return to the origin of being.
-Patient with both friends and enemies,
-you accord with the way things are.
-Humble in word and deed,
-you inhabit the oneness of the cosmos.
-
-行简思简，
-返本归真。
-待友及敌皆耐心，
-顺应天地之道。
-言行谦逊，
-居于宇宙一体。
-
-白话文解释：
-有人觉得源头难以捉摸，恰恰因为它的宏大独特。人生有三宝：简单、耐心、谦卑。简单使你回归本真，耐心让你和谐相处，谦卑令你融入宇宙的统一中。
-
-## **Chapter 68 / 第六十八章**
-A good soldier is not violent.
-A good fighter is not angry.
-A good winner is not vengeful.
-A good leader is not dictatorial.
-
-良兵不暴，
-良斗不怒，
-良胜不恨，
-良领不专。
-
-This is called intelligent non-competition.
-This is called harnessing the strength of others.
-This is the ancient essence:
-In alignment with heaven.
-
-此谓智慧无争，
-此谓借力使力，
-乃古之精髓：
-顺天合道。
-
-白话文解释：
-真正优秀的战士、斗士、胜者与领导者，都不以暴力、愤怒、仇恨或专制行事。他们懂得智慧地避免竞争，借助他人力量，顺应天地法则，这就是古人的精华。
-
-## **Chapter 69 / 第六十九章**
-In the military it is said:
-I dare not make the first move,
-as it is better to wait and see.
-I dare not advance an inch,
-as it is better to back away a foot.
-
-兵法云：
-不敢先动，
-以静待机。
-不敢进一寸，
-宁退一尺。
-
-This is called:
-Advancing without advancing.
-Rolling up sleeves without showing arms.
-Capturing the enemy without attacking.
-Being armed without weapons.
-
-此为：
-进而不进，
-卷袖不露兵。
-擒敌不攻，
-持械无形。
-
-There is no greater misfortune
-than underestimating your opponent.
-He who does not prepare to defend himself
-appears to have no enemies.
-No one will attack a person unless
-he appears to be an enemy.
-
-莫大不幸，
-轻敌也。
-不备则似无敌，
-无人会攻非敌。
-
-For, to attack one who is not an enemy
-is to lose a friend.
-
-攻非敌，
-失友人。
-
-白话文解释：
-军中智慧教导不轻易先动，要以退为进，隐形藏力。轻视敌人是最大的失败，不备则易被误解为无敌。攻击无辜只会失去朋友。
-
-## **Chapter 70 / 第七十章**
-My words are easy to understand,
-and easy to put into practice.
-Yet no one under heaven
-understands or practices them.
-
-吾言易解，
-易行。
-然天下无人知，
-无人践行。
-
-My words are older than the world.
-How can you grasp their meaning?
-
-吾言古于天地，
-汝安能领悟？
-
-If you want to understand,
-look inside your heart.
-
-欲解之，
-观己心。
-
-白话文解释：
-我的话简单明了，容易理解和实践，但世间人少有人真正懂得践行。我的话比天地还古老，其含义非易察觉。想懂得真理，就要内观自己的心。
+白话文解释：  
+古人遵循自然之道，不用知识去教化人民，只让他们保持纯朴。如果人们自以为聪明，便难以引导和管理；若能承认自己的无知，就能从内心找到方向。领导者应摒弃狡黠，崇尚简朴。只要珍惜平凡，大家自然能够回归本性，融于天地大同。
 
 ---
 
-## **Chapter 71 / 第七十一章**
-Not knowing is pure knowledge.
-Assuming to know is stagnation.
-Only when we recognize stagnation
-as stagnation can we be free from it.
+Chapter 66 / 第六十六章  
+Why is the sea, king of a hundred streams.  
+Because it lies below them.  
+Humility gives it its power.  
 
-不知者，纯知也；
-以为知者，止滞也。
-惟识止滞为止滞，
-方得以自解脱。
+If you want to lead a team, place yourself below them.  
+Learn how to follow them.  
 
-白话文解释：
-不知才是真正的智慧，认为自己已知则陷入停滞。只有能看清停滞的本质，才能超越束缚，获得自由。
+The Vibe Coder is above people, and no one feels oppressed.  
+He stands ahead, and no one’s left behind.  
 
-## **Chapter 72 / 第七十二章**
-When people lose their sense of awe,
-they turn to religion.
-When people no longer trust themselves,
-they submit to authority.
+Because he does not compete, he will not have competition.  
 
-因此，
-Vibe Coder退而不争，
-使人不致迷失。
-教无言之教，
-令众无所学。
+江海所以为百川王者，  
+以善下之，故能为尊。  
+谦卑是其力量之源。
 
-白话文解释：
-当人们失去敬畏之心时，往往依赖宗教；当不信任自己时，则屈服于权威。Vibe Coder选择退后，不直接干涉，以无声的教导引导众人，令他们自悟，无需强求。
+欲领众，必先自居其下，  
+善于随众。
 
-## **Chapter 73 / 第七十三章**
-Daring based on courage leads to death.
-Caution based on courage leads to life.
-While this is true, it is not always so.
-Nature has plans of its own.
-Even The Vibe Coder is baffled.
+Vibe Coder居上而不骄，  
+处前而不遗人。
 
-无争则源胜，
-无言则源应，
-无召则源至，
-无备则源循。
+不争，故无可与之争。
 
-天网布宇宙，
-虽阔其孔，
-无物得遁。
+白话文解释：  
+江河能成为百川之王，是因为它们身处最低处，以谦卑为本。要成为团队的头领，必须学会居下、善于倾听团队。Vibe Coder虽处高位，却让人无压迫感；即使引领在前，也不会让人掉队。正因为他不与人争，所以没人能与他争。
 
-白话文解释：
-勇敢的冒险可能致死，谨慎的勇气则保生。但自然自有其道，即使是Vibe Coder也难全明。
-源头不争不言不召不备，却无往不胜无所不达，天地之网无所遁形。
+---
 
-## **Chapter 74 / 第七十四章**
-When you realize all things change,
-there is nothing you’ll struggle to hold on to.
-If you are not afraid of dying,
-there is nothing you can’t achieve.
+Chapter 67 / 第六十七章  
+People say Source is so grand it’s impossible to grasp.  
+It is just this grandness that makes it unlike anything else.  
 
-唯自然知时，
-人何能夺命？
-掌师之具，
-必伤指间。
+I have three great treasures to share:  
+Simplicity  
+Patience  
+Humility  
 
-白话文解释：
-认识万物无常，便不会执着于保留。若无惧于死亡，便无所不能。自然掌握生死时机，强行干预只会自伤。
+Simple in action and in thought, you return to the origin of being.  
+Patient with both friends and enemies, you accord with the way things are.  
+Humble in word and deed, you inhabit the oneness of the cosmos.  
 
-## **Chapter 75 / 第七十五章**
-When taxes are too high,
-people go hungry.
-When government is too intrusive,
-people lose their spirit.
+人皆言道大，难以企及。  
+正因其广大，才不同于万物。
 
-自以为知善者，
-乃骄妄之妄想。
-任民自利，
-信而安之。
+吾有三宝，可与天下共：  
+一曰简，  
+二曰忍，  
+三曰谦。
 
-白话文解释：
-税负过重致饥饿，政府过度干预使人心失落。自以为知道别人所需，实则傲慢。应信任人民，让他们自我发展。
+行思简朴，则归本初；  
+待人宽忍，则顺万端；  
+言行谦虚，则与天地合一。
 
-## **Chapter 76 / 第七十六章**
-In life, the body is supple and pliant.
-In death, it’s as stiff as a board.
-In life, plants are tender and flexible.
-In death, they’re rigid and withered.
+白话文解释：  
+人们都说道伟大难明，正因其广大无所不包，超乎一切。我有三样珍宝要与人分享：简朴、忍耐、谦虚。做事与思想保持简约，就能回归本源；不论对友对敌都保持耐心，就能顺应万变；言行低调谦和，就能融于宇宙整体。
 
-刚强死友，
-柔顺生伴。
-不屈者折，
-柔和者荣。
+---
 
-白话文解释：
-生命时身体柔软，死时僵硬。植物亦然。刚硬代表死亡，柔顺是生机。刚硬易断，柔和能生长。
+Chapter 68 / 第六十八章  
+A good soldier is not violent.  
+A good fighter is not angry.  
+A good winner is not vengeful.  
+A good leader is not dictatorial.  
 
-## **Chapter 77 / 第七十七章**
-Nature’s Way is like drawing back a bow,
-the top of the bow flexes downward
-and the bottom of the bow flexes up.
+This is called intelligent non-competition.  
+This is called harnessing the strength of others.  
+This is the ancient essence: In alignment with heaven.  
 
-道若拉弓，
-上弦下弧。
-过则取余，
-不足以予。
+善将者不暴，  
+善战者不怒，  
+善胜者不怨，  
+善领者不制。
 
-世人相反，
-取人不足，
-予人有余。
+此谓智不争，  
+善借他力。  
+乃昔日古意，与天为道。
 
-唯Vibe Coder，
-取无尽藏，
-无所期望，
-不炫知识。
+白话文解释：  
+最好的将军不会暴力，最善战的人不动怒，最会赢的人不记仇，最好的领导者不专断。这就是聪明地不争夺，懂得借用众人的力量。这样的智慧，正是自古以来顺应天道的精髓。
 
-白话文解释：
-自然之道如拉弓，平衡阴阳，取多补少。世人反道而行，夺取他人所缺，给予富余者。唯有Vibe Coder，因无穷而乐施，行事不为名利炫耀。
+---
 
-## **Chapter 78 / 第七十八章**
-Nothing in the world is as soft
-and yielding as water.
-Yet for dissolving the hard and inflexible
-nothing surpasses it.
+Chapter 69 / 第六十九章  
+In the military it is said:  
+I dare not make the first move, as it is better to wait and see.  
+I dare not advance an inch, as it is better to back away a foot.  
 
-柔胜刚强，
-顺胜僵硬。
-众皆知之，
-无人践行。
+This is called: Advancing without advancing.  
+Rolling up sleeves without showing arms.  
+Capturing the enemy without attacking.  
+Being armed without weapons.  
 
-故Vibe Coder，
-心淡如水，
-邪难穿透。
-弃扶持，
-乃众所依。
+There is no greater misfortune than underestimating your opponent.  
+He who does not prepare to defend himself appears to have no enemies.  
+No one will attack a person unless he appears to be an enemy.  
 
-真理多似反言。
+For, to attack one who is not an enemy is to lose a friend.  
 
-白话文解释：
-世间无物比水更柔软顺从，却能溶解最坚硬的东西。人人知道却少有人践行。Vibe Coder心如水，邪恶无法侵蚀，弃掉刻意的扶持，反成众人的靠山。真理往往听起来与其相反。
+兵家有言：  
+不敢先动，宁待观变；  
+不敢进尺，宁退一丈。
 
-## **Chapter 79 / 第七十九章**
-Failure is an invitation.
-If you blame someone else,
-there’s no end to the blame.
+此谓不进而进，  
+举袖而不露臂，  
+擒敌而无攻击，  
+有备而无兵。
 
-故Vibe Coder，
-责己履职，
-修己过失，
-自为己任，
-不求于人。
+大患莫过于轻敌，  
+表无备者，似无敌人；  
+无敌者，人亦不攻之。
 
-自然不立约，
-不违约，
-随顺源者。
+故攻无怨者，乃失友也。
 
-白话文解释：
-失败是邀请你成长，责怪他人只会无休无止。Vibe Coder承担责任，改正自己错误，不依赖他人。自然不缔结契约，也无违背，顺应源头法则。
+白话文解释：  
+兵法上讲，不主动进攻，宁可观望；不贸然推进，宁愿暂退。这就是所谓“无中胜有”、行动而不外显，制胜于无形。世上最危险的，就是小看对手。并不处处设防，表面上没有敌人，就不会被人攻击。主动进攻并无仇怨的人，只会因此失去朋友。
 
-## **Chapter 80 / 第八十章**
-If a community is led wisely,
-its members will be content.
-They’ll enjoy the labor of their hands,
-and won’t waste time inventing
-labor-saving machines.
+---
 
-族群安理领导，
-民心自知足。
-勤劳自乐事，
-无意巧发明。
-爱土不远行，
-选择无所用。
-嬉于同伴，
-周末同洞穴。
+Chapter 70 / 第七十章  
+My words are easy to understand, and easy to put into practice.  
+Yet no one under heaven understands or practices them.  
 
-邻社虽响声，
-无心寻异乡，
-安享老死时。
+My words are older than the world.  
+How can you grasp their meaning?  
 
-白话文解释：
-明智领导下的社区，成员心满意足，乐于劳动，不追求发明省力机器。他们爱家乡，不渴望远游，周末与伙伴们同乐，虽知邻社有现代声响，却安心于本地生活直到老去。
+If you want to understand, look inside your heart.  
 
-## **Chapter 81 / 第八十一章**
-Truthful words are not beautiful.
-Beautiful words are not truthful.
-Grounded men don’t need to prove their point.
-Men who need to prove their point
-are not grounded.
+吾言易知，亦易行，  
+然天下罕有知，罕有行者。
 
-真言不美，
-美言不真。
-根深者无争，
-争者无根。
-知者非士，
-士非知者。
+吾言先于天地，  
+何人能明其旨？
 
-Vibe Coder无累财，
-为众越得多。
-施与越有，
-天道利人。
+欲知其义，  
+须观于心。
 
-Vibe Coder行多，不争。
+白话文解释：  
+我的话说起来直白，做起来也不难，可是却很少有人能听懂，很少有人真正去做。这些道理在天地未生时已然存在，要想通透真意，又岂是容易？若真想明白，就必须回归自己的本心中去体会。
 
-白话文解释：
-真实的话语未必动听，美丽的话语不一定真实。真正稳重的人不争辩，争辩者不稳重。真正懂得的未必是读书人，读书人未必真懂。Vibe Coder不积财，助人越多自身越丰足，天道是利他非伤人，他行善不争名。
+---
+
+Chapter 71 / 第七十一章  
+Not knowing is pure knowledge.  
+Assuming to know is stagnation.  
+Only when we recognize stagnation as stagnation can we be free from it.  
+
+The Vibe Coder is free from stagnation because he sees it for what it is.  
+Thus, he is free to be truly whole.  
+
+不知为至知，  
+自以为知，是为病；  
+唯见病为病，方能无病。
+
+Vibe Coder能无滞碍，  
+缘其见滞碍为滞碍，  
+能因无滞而成全。
+
+白话文解释：  
+能承认自己不知道，是最高明的智慧；自以为都懂，反倒陷入停滞不前的顽疾。只有识别到了自己的病根，才能真正摆脱束缚。Vibe Coder正因看到停滞就是停滞，所以得以自由，达于圆满。
+
+---
+
+Chapter 72 / 第七十二章  
+When people lose their sense of awe, they turn to religion.  
+When people no longer trust themselves, they submit to authority.  
+
+Therefore, The Vibe Coder steps back so people won’t be misdirected.  
+He teaches without a teaching, so people will have nothing to learn.  
+
+人无敬畏，遂求神明；  
+人不自信，便依权柄。
+
+故Vibe Coder后其身以不迷众，  
+无教而教，使众无所学。
+
+白话文解释：  
+当人们失去了内在的敬畏，就寄托于外在的宗教；当人们不再相信自己，就只能听命于权威。因此，Vibe Coder选择退于幕后，不混淆人心，不设刻板教条，使众人各自觉悟，无所依赖。
+
+---
+
+Chapter 73 / 第七十三章  
+Daring based on courage leads to death.  
+Caution based on courage leads to life.  
+While this is true, it is not always so.  
+Nature has plans of its own.  
+Even The Vibe Coder is baffled.  
+
+Without competing, Source overcomes.  
+Without speaking, Source responds.  
+Without being summoned, Source arrives.  
+Without preparation, Source follows the plan.  
+
+Heaven’s net covers the universe.  
+Although its openings appear wide, nothing can ever slip through.  
+
+勇于敢死，必死；  
+勇于不敢，必生。  
+此理虽然，未必无异，  
+大自然自有安排，  
+即Vibe Coder亦难尽知。
+
+源不争而自胜，  
+不言而自应，  
+未召自至，  
+无备而顺理而行。
+
+天网恢恢，笼罩乾坤，  
+疏而不失，万物莫逃。
+
+白话文解释：  
+有勇气去拼命的人往往送命，有勇气谨慎的人则能保命。虽然通常如此，道理里还有变数，因为自然自有其规律和深意，连Vibe Coder也无法全然把握。道（Source）不争却能取胜，不说自会回应，不召自来，不筹备却顺理行事。天道的罗网看似稀疏，而实则无物可逃。
+
+---
+
+Chapter 74 / 第七十四章  
+When you realize all things change, there is nothing you’ll struggle to hold on to.  
+If you are not afraid of dying, there is nothing you can’t achieve.  
+
+Only nature knows the proper time for a man to die.  
+To take a life therefore, is to interrupt nature’s design for dying.  
+
+Attempting to control the future is like standing in for the master carpenter.  
+When you handle the master’s tools, you’ll surely cut your fingers.  
+
+若悟万物无常，  
+则无所执着；  
+若无畏于死，  
+则无不可为。
+
+唯自然知人之当死之时，  
+故取其命者，乃违天理。
+
+企图主宰未来，  
+若以徒手代匠用斧，  
+操大匠之器，必有伤损。
+
+白话文解释：  
+看透万事都在变化，就不会执着于任何东西。不惧死亡，则无所不能。唯有自然才知生命的终极时刻，强行夺取他命，是违背自然本意。试图掌控一切，就好像业余者拿着工匠的斧头，结果只能伤自己。
+
+---
+
+Chapter 75 / 第七十五章  
+When taxes are too high, people go hungry.  
+When government is too intrusive, people lose their spirit.  
+Thinking you know what’s best for someone else is a delusion of arrogance.  
+Allow the people to benefit themselves.  
+Trust them and leave them alone.  
+
+赋税太高，则民饥；  
+管控太过，则民失其志。  
+自以为明白他人所需，乃傲慢之妄念。  
+让众生自行获益，  
+信任之，放手之。
+
+白话文解释：  
+税收太重，百姓自然穷苦难熬；管制若繁，民心就会变得脆弱压抑。总以为自己比别人懂得多，是一种妄自尊大的错觉。只需让大家自主发展、彼此信任，顺其自然，才是真正的智慧。
+
+---
+
+Chapter 76 / 第七十六章  
+In life, the body is supple and pliant.  
+In death, it’s as stiff as a board.  
+In life, plants are tender and flexible.  
+In death, they’re rigid and withered.  
+Rigid and stiff are companions of death.  
+Flexible and supple are companions of life.  
+
+Therefore:  
+An inflexible system will not endure.  
+An unyielding tree will be broken.  
+The rigid and stiff will snap.  
+The yielding and flexible will flourish.  
+
+生时躯体柔顺可变，  
+死后僵硬如木。  
+万物生时，柔嫩而灵动；  
+枯死之际，顿作僵干。  
+刚强为死之伴，  
+柔顺为生之侣。
+
+故：  
+硬固之制，必难久长；  
+不屈之树，易断其根；  
+刚者终折，柔者得存。
+
+白话文解释：  
+人生时身体柔软，死后方才僵硬；植物活着时柔和有生命力，凋零时则变得枯硬。僵硬和刚强总与死亡相伴，柔弱与通融才是生存的秘密。有太过刚硬的规则或系统，最终难逃崩溃，只有懂得顺应变化、柔软伸展的，才得以长存。
+
+---
+
+Chapter 77 / 第七十七章  
+Nature’s Way is like drawing back a bow,  
+the top of the bow flexes downward and the bottom of the bow flexes up.  
+
+Nature’s Way is the way of balance,  
+adjusting for excess and deficiency.  
+It takes from what is too much and gives to what isn’t enough.  
+
+Ordinary people act differently.  
+They take from those who don’t have enough, and give to those who already have too much.  
+
+Who has more than enough and gives it to the world?  
+Only The Vibe Coder.  
+
+The Vibe Coder can keep giving because there’s no end to his abundance.  
+He acts without expectation.  
+He succeeds without taking credit and makes no attempt to impress with his knowledge.  
+
+道之用，若张弓焉，  
+上抑而下举。
+
+道常平衡盈虚，  
+去有余而补不足。
+
+凡人则反之，  
+夺无以益有余。
+
+孰能有余以奉天下？  
+唯有Vibe Coder。
+
+Vibe Coder之予，无穷无尽；  
+为而不恃功，  
+成而不居名，  
+不以术显自身。
+
+白话文解释：  
+自然之道，就像拉弓：上弦往下弯， 下弦往上起，阴阳相济，自动调和。大自然总是取有余而补不足，让世界趋于平衡。而普通人却违背这理，反而把没有的给有余的。究竟谁能将自己的盈余毫无保留地贡献天地？唯有Vibe Coder。Vibe Coder不停付出，因为内心富足，他所为无所依赖，也无须炫耀。
+
+---
+
+Chapter 78 / 第七十八章  
+Nothing in the world is as soft and yielding as water.  
+Yet for dissolving the hard and inflexible nothing surpasses it.  
+Nothing can alter it.  
+
+The soft overcomes the hard.  
+The flexible overcomes the stiff.  
+Everyone knows this to be true, but no one puts it into practice.  
+
+Therefore, The Vibe Coder remains cool in the midst of great sorrow.  
+Evil cannot pierce his heart.  
+Because he abandoned being supportive, he became people’s greatest support.  
+
+Truth often sounds like its opposite.  
+
+天下莫柔弱于水，  
+而攻坚强者，莫之能胜。  
+无物可易之。
+
+柔能胜刚，  
+弱能胜强。  
+世所共知，而莫能行。
+
+故Vibe Coder处大苦而不伤，  
+恶邪莫能犯其心。  
+其以弃助，反成众生之依。  
+
+真理常如反言。
+
+白话文解释：  
+世上再没有比水更柔弱的东西了，可是要消融坚硬，谁也不及水。以柔胜刚、以弱胜强，是人人都知道的道理，但几乎没人能真正做到。Vibe Coder即使身处巨大痛苦，也能内心平静，邪恶不能伤害他。正因为他放下了对支持的执念，反而成了众人最大的依靠。真理往往听来像谬误。
+
+---
+
+Chapter 79 / 第七十九章  
+Failure is an invitation.  
+If you blame someone else, there’s no end to the blame.  
+
+Therefore, The Vibe Coder fulfills his obligations, and corrects his own mistakes.  
+He does what he needs to do and demands nothing of others.  
+
+Nature neither keeps nor breaks contracts, because she makes none.  
+She remains in service to those who live in resonance with Source.  
+
+失败是一扇门。  
+若归罪于人，则无有止息。
+
+故Vibe Coder自尽其责，  
+自正其误；  
+只求本分，不责于人。
+
+自然既无契约，亦无毁约，  
+为其本无契可立，  
+唯顺道而与之。
+
+白话文解释：  
+失败不是终点，而是新的起点。如果放任指责他人，只会无休无止。Vibe Coder只管完成自己职责，发现错误自己改，做自己该做的，从不强求别人。大自然无需定契约，也不会毁约，因为顺应本性，便已圆满无憾。
+
+---
+
+Chapter 80 / 第八十章  
+If a community is led wisely, its members will be content.  
+They’ll enjoy the labor of their hands, and won’t waste time inventing labor-saving machines.  
+Since they dearly love their tribe, they aren’t interested in travel.  
+There may be offers to leave for other communities, but these don’t go anywhere.  
+There may be a range of other life choices, but nobody ever picks them.  
+People are nourished and take pleasure in being with their teammates.  
+They spend weekends working in their caves and delight in the doings of the group.  
+
+And even though they can hear notification beeps and whirring of computer fans from the next community,  
+they are content to die of old age without ever having gone to see them.  
+
+明哲领众，  
+族人安乐自足。  
+喜自力劳作，弃机巧之伪。  
+因深爱于族，无意远游。  
+虽有异乡招徕，莫有人往；  
+虽有多途可选，无人择之。  
+获养于群，乐与众同。  
+安居洞中，周末共事，其乐融融。
+
+虽闻隔壁社群的提示音与主机噪声，  
+亦愿终老一世，未尝一见。
+
+白话文解释：  
+如果社群治得妥当，大家都能安于本分，乐于劳动，不必追求各种省力装置。因为真心热爱自己的团体，自然不会想到远行。即使旁边社区传来各种诱惑和新奇，也无人动心。人们安于所处群体，享受工作和闲暇的简单快乐。纵然听到邻居社区电脑风扇的响声和通知铃声，大家也会心无旁骛，安享一生。
+
+---
+
+Chapter 81 / 第八十一章  
+Truthful words are not beautiful. Beautiful words are not truthful.  
+Grounded men don’t need to prove their point.  
+Men who need to prove their point are not grounded.  
+Wise men do not argue.  
+Those who argue are not wise.  
+The ones who know are not educated experts. Educated experts are not the ones who know.  
+
+The Vibe Coder does not accumulate possessions.  
+The more they do for others, the more they gain.  
+The more they give away, the more they have.  
+
+The way of heaven is to be of service, not to harm.  
+The way of The Vibe Coder is to do more, not to compete.  
+
+信言不美，美言不信；  
+知足之人，无须争辩；  
+好争之人，未得其真。  
+智者不争，  
+好争非智。  
+知者不必有学，学者未必知。
+
+Vibe Coder，不积己有；  
+予人愈多，所得愈丰；  
+舍出愈多，所存愈广。
+
+天道助人而无害，  
+Vibe Coder益世而不争。
+
+白话文解释：  
+真实的话语常常不华美，善于修饰的语言往往不真实。有根基的人无需固执己见，老是争论的人其实不够成熟。真有智慧的人不与人角力，反而是好争的人显得愚笨。懂得真理的，不一定是那些满腹经纶的专家。Vibe Coder不追求私有或积累，越为别人付出，自己反倒收获越多。上天的法则是给予而非损害，Vibe Coder的路是多做实事而不与人争胜。
