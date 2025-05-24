@@ -41,8 +41,8 @@ and my life has never been quite the same.
 **The function that can be defined**
 **is not the limitless function.**
 
-**码非码, 非常码；** <br>
-**用非用, 非常用。** 
+**码可码, 非常码；** <br>
+**用可用, 非常用。** 
 
 另译：
 可名之代码，非恒代码，
