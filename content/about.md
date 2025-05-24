@@ -5,6 +5,4 @@ url: "/about/"
 summary: about
 ---
 
-Xu Hao, a father, vibe coder and continues learner
-
-
+Xu Hao, a father and vibe coder
