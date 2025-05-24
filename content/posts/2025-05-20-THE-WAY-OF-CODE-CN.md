@@ -20,11 +20,11 @@ at the Bodhi Tree bookstore in Los Angeles
 and my life has never been quite the same.
 — Rick Rubin
 
-我与老子的每一次邂逅，皆引我见新悟。
-仿佛此书随阅历而变，常新常变。
-四十年前，我于洛杉矶菩提树书店，
-首次手握斯蒂芬·米切尔之译本，
-自此人生不复往昔。
+我与老子的每一次邂逅，皆引我见新悟。<br>
+仿佛此书随阅历而变，常新常变。<br>
+四十年前，我于洛杉矶菩提树书店，<br>
+首次手握斯蒂芬·米切尔之译本，<br>
+自此人生不复往昔。<br>
 —— Rick Rubin
 
 白话文解释：
