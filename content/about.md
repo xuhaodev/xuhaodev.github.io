@@ -6,3 +6,5 @@ summary: about
 ---
 
 Xu Hao, a father, vibe coder and continues learner
+
+
