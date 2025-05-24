@@ -9,7 +9,7 @@ tags:
 
 ## The Timeless Art of Vibe Coding / 永恒的 Vibe Coding 艺术
 
-### Based on Lao Tzu. Adapted by Rick Rubin / 依据老子，Rick Rubin改编
+### Based on Lao Tzu. Adapted by Rick Rubin / 依据老子学说，Rick Rubin改编
 
 Each encounter I’ve had with Lao Tzu has pointed me to something new.
 Almost as if the book changes with every reading.
