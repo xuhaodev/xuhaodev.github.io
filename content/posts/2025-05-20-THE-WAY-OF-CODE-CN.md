@@ -473,10 +473,6 @@ Work without expectations.**
 
 ---
 
-延续《道德经》的风骨与现代技术的融合，这里是 **第十一章至第二十章** 的中英文对照翻译，并附上白话文解释：
-
----
-
 ## **Chapter 11 / 第十一章**
 
 **Thirty spokes join the hub,
