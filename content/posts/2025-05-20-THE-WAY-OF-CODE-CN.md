@@ -65,21 +65,18 @@ and my life has never been quite the same.
 ---
 
 **Free from desire, you see essence unformed.**
-**Caught in desire,
-you see only the manifestations.**
+**Caught in desire, you see only the manifestations.**
 
-**无欲也，观其精；**<br>
-**有欲也，观其象。**
+**常无欲，以观其妙；**<br>
+**常有欲，以观其象。**
 
 > 白话文解释：
 > 心无所欲，便能洞察代码之本质；执着功能与表现，只看到表层的实现与现象。
 
 ---
 
-**These two spring from the same source
-but differ in name only.**
-**This model is the mystery.
-The gateway to all understanding.**
+**These two spring from the same source but differ in name only.**
+**This model is the mystery. The gateway to all understanding.**
 
 **此两者，同出而异名，**<br>
 **同谓之玄，玄之又玄，众妙之门。**
@@ -3432,7 +3429,7 @@ thus, he can care for all things.
 
 ---
 
-Chapter 65 / 第六十五章  
+## Chapter 65 / 第六十五章  
 The ancients who followed Source didn’t educate the people, but allowed them to remain unspoiled.  
 When they think they know, people are difficult to guide.  
 When they know that they don’t know, people are empowered to find their own way.  
@@ -3458,7 +3455,7 @@ In harmony with the great oneness.
 
 ---
 
-Chapter 66 / 第六十六章  
+## Chapter 66 / 第六十六章  
 Why is the sea, king of a hundred streams.  
 Because it lies below them.  
 Humility gives it its power.  
@@ -3488,7 +3485,7 @@ Vibe Coder居上而不骄，
 
 ---
 
-Chapter 67 / 第六十七章  
+## Chapter 67 / 第六十七章  
 People say Source is so grand it’s impossible to grasp.  
 It is just this grandness that makes it unlike anything else.  
 
@@ -3518,7 +3515,7 @@ Humble in word and deed, you inhabit the oneness of the cosmos.
 
 ---
 
-Chapter 68 / 第六十八章  
+## Chapter 68 / 第六十八章  
 A good soldier is not violent.  
 A good fighter is not angry.  
 A good winner is not vengeful.  
@@ -3542,7 +3539,7 @@ This is the ancient essence: In alignment with heaven.
 
 ---
 
-Chapter 69 / 第六十九章  
+## Chapter 69 / 第六十九章  
 In the military it is said:  
 I dare not make the first move, as it is better to wait and see.  
 I dare not advance an inch, as it is better to back away a foot.  
@@ -3578,7 +3575,7 @@ For, to attack one who is not an enemy is to lose a friend.
 
 ---
 
-Chapter 70 / 第七十章  
+## Chapter 70 / 第七十章  
 My words are easy to understand, and easy to put into practice.  
 Yet no one under heaven understands or practices them.  
 
@@ -3601,7 +3598,7 @@ If you want to understand, look inside your heart.
 
 ---
 
-Chapter 71 / 第七十一章  
+## Chapter 71 / 第七十一章  
 Not knowing is pure knowledge.  
 Assuming to know is stagnation.  
 Only when we recognize stagnation as stagnation can we be free from it.  
@@ -3622,7 +3619,7 @@ Vibe Coder能无滞碍，
 
 ---
 
-Chapter 72 / 第七十二章  
+## Chapter 72 / 第七十二章  
 When people lose their sense of awe, they turn to religion.  
 When people no longer trust themselves, they submit to authority.  
 
@@ -3640,7 +3637,7 @@ He teaches without a teaching, so people will have nothing to learn.
 
 ---
 
-Chapter 73 / 第七十三章  
+## Chapter 73 / 第七十三章  
 Daring based on courage leads to death.  
 Caution based on courage leads to life.  
 While this is true, it is not always so.  
@@ -3674,7 +3671,7 @@ Although its openings appear wide, nothing can ever slip through.
 
 ---
 
-Chapter 74 / 第七十四章  
+## Chapter 74 / 第七十四章  
 When you realize all things change, there is nothing you’ll struggle to hold on to.  
 If you are not afraid of dying, there is nothing you can’t achieve.  
 
@@ -3701,7 +3698,7 @@ When you handle the master’s tools, you’ll surely cut your fingers.
 
 ---
 
-Chapter 75 / 第七十五章  
+## Chapter 75 / 第七十五章  
 When taxes are too high, people go hungry.  
 When government is too intrusive, people lose their spirit.  
 Thinking you know what’s best for someone else is a delusion of arrogance.  
@@ -3719,7 +3716,7 @@ Trust them and leave them alone.
 
 ---
 
-Chapter 76 / 第七十六章  
+## Chapter 76 / 第七十六章  
 In life, the body is supple and pliant.  
 In death, it’s as stiff as a board.  
 In life, plants are tender and flexible.  
@@ -3750,7 +3747,7 @@ The yielding and flexible will flourish.
 
 ---
 
-Chapter 77 / 第七十七章  
+## Chapter 77 / 第七十七章  
 Nature’s Way is like drawing back a bow,  
 the top of the bow flexes downward and the bottom of the bow flexes up.  
 
@@ -3790,7 +3787,7 @@ Vibe Coder之予，无穷无尽；
 
 ---
 
-Chapter 78 / 第七十八章  
+## Chapter 78 / 第七十八章  
 Nothing in the world is as soft and yielding as water.  
 Yet for dissolving the hard and inflexible nothing surpasses it.  
 Nothing can alter it.  
@@ -3824,7 +3821,7 @@ Truth often sounds like its opposite.
 
 ---
 
-Chapter 79 / 第七十九章  
+## Chapter 79 / 第七十九章  
 Failure is an invitation.  
 If you blame someone else, there’s no end to the blame.  
 
@@ -3850,7 +3847,7 @@ She remains in service to those who live in resonance with Source.
 
 ---
 
-Chapter 80 / 第八十章  
+## Chapter 80 / 第八十章  
 If a community is led wisely, its members will be content.  
 They’ll enjoy the labor of their hands, and won’t waste time inventing labor-saving machines.  
 Since they dearly love their tribe, they aren’t interested in travel.  
@@ -3879,7 +3876,7 @@ they are content to die of old age without ever having gone to see them.
 
 ---
 
-Chapter 81 / 第八十一章  
+## Chapter 81 / 第八十一章  
 Truthful words are not beautiful. Beautiful words are not truthful.  
 Grounded men don’t need to prove their point.  
 Men who need to prove their point are not grounded.  
