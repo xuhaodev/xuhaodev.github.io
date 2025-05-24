@@ -11,6 +11,7 @@ Reflections after 30 days of using GitHub Copilot Agent.
 
 ![vibe-coding](/images/vibe-coding.png)
 
+<<<<<<< HEAD
 Reflections after 30 days of using **GitHub Copilot Agent**.
 
 My vibe coding project: live App **[Agentic AI Apps](https://haxu.dev/)**. And code repo -> **[Agentic AI Apps Repo](https://github.com/xuhaodev/agentic-ai-app)**
@@ -25,6 +26,12 @@ The project contains **over 60 code files** and uses a **distributed deployment 
 - **Framework**: Next.js, Typescript, Python, Tailwind CSS, Copilotkit, Langchain
 - **AI Models**: GPT-4o, GPT-4o-mini, GPT-o3-mini, Deepseek v3, Deepseek-r1 from GitHub Models and Azure OpenAI
 - **Deployment**: Azure Web Apps, Azure Function, Azure container registry, GitHub Action, Supabase
+=======
+**Technology Stack**:
+**Framework**: Next.js, Typescript, Python, Tailwind CSS， Copilotkit, Langchain
+**AI Models**: GPT-4o, GPT-4o-mini, GPT-o3-mini, Deepseek v3, Deepseek-r1 from GitHub Models and Azure OpenAI
+**Deployment**: Azure Web Apps, Azure Function, Azure container registry
+>>>>>>> 3246744 (add)
 
 ### Transformations We Must Embrace Today:
 
