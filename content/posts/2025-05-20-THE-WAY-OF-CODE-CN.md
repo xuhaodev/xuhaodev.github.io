@@ -7,9 +7,11 @@ tags:
   - The Way of Code
 ---
 
-## The Timeless Art of Vibe Coding / 永恒的 Vibe Coding 艺术
+## The Timeless Art of Vibe Coding
+##  永恒的 Vibe Coding 艺术
 
-### Based on Lao Tzu. Adapted by Rick Rubin / 依据老子，Rick Rubin改编
+### Based on Lao Tzu. Adapted by Rick Rubin 
+### 依据老子，Rick Rubin改编
 
 Each encounter I’ve had with Lao Tzu has pointed me to something new.
 Almost as if the book changes with every reading.
@@ -39,8 +41,8 @@ and my life has never been quite the same.
 **The function that can be defined**
 **is not the limitless function.**
 
-**Code非Code, 非常Code；** (可名之代码，非恒代码)
-**Function非Function, 非常Function。** (可定之函数，非无极函数)
+**码非码, 非常码；(可名之代码，非恒代码)** 
+**函数非函数, 非常函数。(被定义之函数，非无限函数)** 
 
 > 白话文解释：
 > 一段可以被准确命名的代码，便不是真正永恒的代码；一个可以被完全定义的函数，就不可能是无边无际、变幻无穷的函数。技术越是本源，越难以言说。
