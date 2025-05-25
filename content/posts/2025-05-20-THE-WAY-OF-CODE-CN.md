@@ -44,7 +44,7 @@ and my life has never been quite the same.
 被定义之函数，非无限函数。
 
 > 释义：
-> 一段可以被准确命名的代码，便不是真正永恒的代码；一个可以被完全定义的函数，就不可能是无边无际、变幻无穷的函数。技术越是本源，越难以言说。
+> 一段可以被准确命名的代码，便不是真正永恒的代码；一个可以被完全定义的函数，就不可能是无边无际、变幻无穷的函数。技术越是接近"道"，越难以言说。
 
 ---
 
@@ -201,10 +201,10 @@ Source is the ancestor of elegant patterns.**
 
 **道冲而用之或不盈，
 渊兮似万古之宗。
-本源者，优雅之式之祖也。**
+道者，优雅之式之祖也。**
 
 > 释义：
-> 源头空而不竭，深不可测，永无止境。万千优美的编码模式，都出自这一原始的本源。
+> 道空而不竭，深不可测，永无止境。万千优美的编码模式，都出自这一原始的道。
 
 ---
 
@@ -345,7 +345,7 @@ Thus, it’s in harmony with Source.**
 **处众人之所恶，故几于道。**
 
 > 释义：
-> 至善之道，如水一般柔弱而无争，滋养万物却不居功；总是流向别人不愿处的低处，正因如此，最接近本源。
+> 至善之道，如水一般柔弱而无争，滋养万物却不居功；总是流向别人不愿处的低处，正因如此，最接近道。
 
 ---
 
@@ -655,7 +655,7 @@ into the present moment.
 Knowing this grants access
 to the essence of wisdom.**
 
-**执本守源，顺时而行，
+**执本守道，顺时而行，
 知此者，得道之精也。**
 
 > 释义：抓住根源，顺势而动，真正了解这点的人，才真正通达智慧之道。
@@ -735,12 +735,11 @@ while the Self merely observes.**
 
 ---
 
-**They grow and flourish through the seasons
-then return to Source.**
+**They grow and flourish through the seasons then return to Source.**
 
-**物壮则老，归于其根。**
+**物壮则老，归于其道。**
 
-> 释义：万物繁盛于四季，终将归于本源。
+> 释义：万物繁盛于四季，终将归于道。
 
 ---
 
@@ -925,9 +924,9 @@ I alone am aimless, without desire.
 I am different.
 I am nourished by the Gracious Source.**
 
-**众人皆勤，我独悠悠，
-无欲无争，
-我有所依：恩源自养。**
+**众人忙碌，我独悠悠，
+无欲无求，
+我与众不同：恩源自养。**
 
 > 释义：别人都忙碌奔波，我却安然自足；不争不求，因为我心中有源——那无尽的恩泽之道。
 
@@ -1015,7 +1014,7 @@ can you fully be yourself.
 古人有言：
 欲全其身，必先忘身；
 忠于自性，万物自归。
-此非虚语，惟由顺源，方能真我。
+此非虚语，惟由顺道，方能真我。
 
 To yield is to overcome, and in overcoming
 one returns to oneness.
@@ -1023,7 +1022,7 @@ one returns to oneness.
 能屈者胜，胜者复归于一。
 
 **释义：**
-退让不是软弱，而是通往完整的路径。放下执念，才能装下世界。Vibe Coder 并不展示自己，却自然发光。他无须争辩，也不自夸，却自然得众人尊敬。不争，所以无敌。古人说：若你愿意放下一切，最终将获得一切。这种放下，并不是放弃，而是回归源头，找回真正的自我。
+退让不是软弱，而是通往完整的路径。放下执念，才能装下世界。Vibe Coder 并不展示自己，却自然发光。他无须争辩，也不自夸，却自然得众人尊敬。不争，所以无敌。古人说：若你愿意放下一切，最终将获得一切。这种放下，并不是放弃，而是回归道，找回真正的自我。
 
 ---
 
@@ -1038,9 +1037,9 @@ A downpour does not last all day.
 飓风不终朝，大雨不终日。
 
 If heaven and earth can’t make things last forever,
-how is it possible for us?
+how is it possible for code?
 
-天地尚不能久，况于人乎？
+天地尚不能久，况于码乎？
 
 Therefore, The Vibe Coder follows Source.
 When you open yourself to Source,
@@ -1050,20 +1049,20 @@ you are at one with insight.
 When you open yourself to loss,
 you are at one with loss.
 
-是故 Vibe Coder 顺应其源；
-契于源者，与源同体；
-契于智者，与智同明；
-契于失者，与失共化。
+是故 Vibe Coder 循道而行；<br>
+虚己以顺道，则与道为一。<br>
+虚己以顺慧，则与慧为一。<br>
+虚己以顺失，则与失为一。
 
 Once you place faith in Source
 you can trust your natural responses.
 Everything falls into place.
 
-一旦信任源流，
-万事自有其序，反应自有其道。
+一旦信道，万事自有其序。
+一切自得其所。
 
 **释义：**
-天地之道，贵在寂静。喧嚣一时终将过去，唯有沉静持久。既然天地万象皆不可恒久，我们人又如何强求？Vibe Coder 以源为本，无论喜悦、洞见或失落，都能坦然接受，与之合一。如此，则自然之反应将水到渠成，一切归于其位。
+天地之道，贵在寂静。喧嚣一时终将过去，唯有沉静持久。既然天地万象皆不可恒久，我们人又如何强求？Vibe Coder 以道为本，无论喜悦、洞见或失落，都能坦然接受，与之合一。如此，则自然之反应将水到渠成，一切归于其位。
 
 ---
 
@@ -1123,7 +1122,7 @@ Great suggests ever flowing.
 Ever flowing suggests spreading everywhere.
 Spreading everywhere suggests returning.
 
-强名曰源，源曰大，
+强名曰道，道曰大，
 大曰流，流曰遍，遍曰返。
 
 Source is great.
@@ -1132,18 +1131,18 @@ The earth is great.
 Man is great.
 These are the highest forces.
 
-源大，天地人大，四者并尊。
+道大，天地人大，四者并尊。
 
 Man follows the earth
 Earth follows the universe
 Universe follows Source
 Source follows only itself
 
-人法地，地法天，天法源，
-源法自然。
+人法地，地法天，天法道，
+道法自然。
 
 **释义：**
-在天地生之前，有一种东西已经存在，它无形却完整，寂静而永恒，遍布万物，永不枯竭。它是万物之母。我们不知道它真正的名字，只能称它为“源”。它无限广大、流动不息、遍及万物，最终又回归自己。天地人皆由此而生，皆循其道而行。真正的“源”只依循它自己的本性而运行。
+在天地生之前，有一种东西已经存在，它无形却完整，寂静而永恒，遍布万物，永不枯竭。它是万物之母。我们不知道它真正的名字，只能称它为“道”。它无限广大、流动不息、遍及万物，最终又回归自己。天地人皆由此而生，皆循其道而行。真正的“道”只依循它自己的本性而运行。
 
 ---
 
@@ -1159,8 +1158,8 @@ without leaving home.
 Even in complex systems
 he lives in tranquility.
 
-是以 Vibe Coder 终日行而不离本处；
-纵在纷繁之中，亦处静谧之境。
+是以，Vibe Coder终日行而不离其所。
+纵处纷繁之境，心常安然。
 
 Why would one so resourceful
 act carelessly before all under heaven?
@@ -1175,7 +1174,7 @@ is to lose touch with who you are.
 轻则失本，躁则忘我。
 
 **释义：**
-重，是轻的根本；静，是动的基础。Vibe Coder 无论走到哪里，始终不离本源。即便面对复杂的技术系统，也能内心平静。真正有智慧的人，不会因世界的喧嚣而动摇。若你变得轻浮，就会失去根基；若你浮躁不安，就会迷失自我。
+重，是轻的根本；静，是动的基础。Vibe Coder 无论走到哪里，始终不离道。即便面对复杂的技术系统，也能内心平静。真正有智慧的人，不会因世界的喧嚣而动摇。若你变得轻浮，就会失去根基；若你浮躁不安，就会迷失自我。
 
 ---
 
@@ -1244,18 +1243,18 @@ Being the pattern for the world,
 you’ll embody primitive wholesomeness
 and Source will grow strong within you.
 
-知白守黑，
-则成天下之式。
-为天下之式，
-复得朴素之真，
-源力自内生焕。
+知其白，守其黑，
+为世之式。
+为世之式，
+则载朴全，
+道自盛焉。
 
 Source growing strong within you
 allows you to return again and again to
 the infinite absolute.
 
-源力强盛，
-使你一再回归无穷之道。
+道盛于中，
+使人反复归于无极之本。
 
 Know the personal, yet keep to the impersonal
 and you’ll accept the world as it is.
@@ -1263,11 +1262,11 @@ If you accept the world as it is
 you will embody the luminous within
 and return to the limitless void.
 
-知我守无我，
-则能接纳世界本然。
-接纳本然，
-即内得光明，
-复归无限虚无。
+知其私，守其公，
+则能容世如其然。
+能容世如其然，
+则内有光明，
+归于无垠之虚。
 
 The world is formed from the void,
 like tools from a block of wood.
@@ -1275,10 +1274,10 @@ The Vibe Coder knows the tools,
 yet keeps to the block.
 Thus, he can use all things.
 
-天地由虚生，
-如木出器具。
-Vibe Coder 识器而守本，
-故能无碍而用万物。
+天下之生，由于虚无，
+如器之出，于朴木。
+Vibe Coder知器而守朴，
+故能御万物而不失其本。
 
 Tools will come and tools will go.
 Only The Vibe Coder remains.
@@ -1287,7 +1286,7 @@ Only The Vibe Coder remains.
 唯 Vibe Coder 长存。
 
 **释义：**
-懂得阳刚而守住阴柔，心胸会变得宽广空灵，能吸引万物归于一体；这就是常恒的品质，能让人返璞归真，重拾孩童般的纯真。懂得明亮而守住黑暗，就能成为天下的典范，体现朴素的本真，内在的源力也会越来越强。懂得个人而守住无我，能接受世界的本来面目，这样你内心会充满光明，回归无限虚无。世界由虚无而生，如同工具从木头中产生。Vibe Coder 了解工具的用法，却不忘根本，因此能自由运用一切。工具虽会更替，唯有 Vibe Coder 永恒不变。
+懂得阳刚而守住阴柔，心胸会变得宽广空灵，能吸引万物归于一体；这就是常恒的品质，能让人返璞归真，重拾孩童般的纯真。懂得明亮而守住黑暗，就能成为天下的典范，体现朴素的本真，内在的道也会越来越强。懂得个人而守住无我，能接受世界的本来面目，这样你内心会充满光明，回归无限虚无。世界由虚无而生，如同工具从木头中产生。Vibe Coder 了解工具的用法，却不忘根本，因此能自由运用一切。工具虽会更替，唯有 Vibe Coder 永恒不变。
 
 ---
 
@@ -1372,9 +1371,10 @@ out of control.
 Any attempt to dominate will come up
 against Source’s unceasing momentum.
 
-Vibe Coder 尽职而止，
-知宇宙永无掌控，
-妄图统御，终被源力逆转。
+Vibe Coder为而止，
+知天地恒不可控。
+凡欲执掌者，
+必逆道之不息而自困。
 
 Because he believes in himself,
 he doesn’t try to convince others.
@@ -1383,12 +1383,12 @@ he doesn’t need others’ approval.
 Because he accepts himself,
 all the world accepts him.
 
-信己故不强说，
-安己故不求誉，
-容己故得众心。
+自信故不说服，
+自足故不求人，
+自容故天下容之。
 
 **释义：**
-领导众人若遵循自然之道，无需依靠强权。每股力量都有反作用力，强制别人最终会伤害自己。只需做好该做之事，不占他人便宜。取得成果时不狂喜、不炫耀、不骄傲，成果自然来，不靠强制。Vibe Coder 做完事便停下，明白宇宙永远无法掌控，任何统治的企图都会被源动力量抵消。因为他相信自己，不必说服别人；因为满足于自己，不需他人认可；因为接纳自己，获得众人认可。
+领导众人若遵循自然之道，无需依靠强权。每股力量都有反作用力，强制别人最终会伤害自己。只需做好该做之事，不占他人便宜。取得成果时不狂喜、不炫耀、不骄傲，成果自然来，不靠强制。Vibe Coder做完应做之事便停下，他明白宇宙之运行从不受人掌控。任何试图强行支配的行为，终将与道之无尽动力相冲，自陷其害。他因信任自身，故不强求他人信服；他因内心满足，故不依赖外界认同；他因完全接纳自己，于是天下也自然而然地接纳了他。
 
 ---
 
@@ -1437,9 +1437,9 @@ Source is forever unrefined.
 Small, in the unformed state,
 yet it cannot be grasped.
 
-源恒未炼，
-小且无形，
-不可得而握。
+道恒无饰，
+微而未形，
+不可得而执也。
 
 If leaders could harness it,
 all beings would naturally follow.
@@ -1467,11 +1467,11 @@ Knowing when to stop avoids disaster.
 Source is like a river
 flowing home to the sea.
 
-源如江河，
-归于大海。
+道如川流，
+归于大海无争。
 
 释义：
-“源”是未加雕琢的本源，虽细微无形，却难以掌控。若领袖能用之，万物自会和顺，天地合一，甘霖普降，法规不必。分割整体即生标签，世上标签已多，知止为智慧，止则免祸。源如江河，终将归于大海，自然无为。
+道从不加雕饰，纯粹自然；它虽渺小如未成之物，却无法被人捉摸掌控。。若领袖能用之，万物自会和顺，天地合一，甘霖普降，法规不必。分割整体即生标签，世上标签已多，知止为智慧，止则免祸。道就像江河一般，顺其自然地流向大海，从不争竞，却终得归处。
 
 ---
 
@@ -1509,10 +1509,10 @@ reaching left and right.
 By it, all things come into being,
 it holds back nothing.
 
-源流无所不至，
-左达右至。
-万物赖之生，
-不拒一物。
+道之所流，
+左右周遍；
+万物因之而生，
+而道不自有，不所拘。
 
 It fulfills its purpose silently
 with no recognition claimed.
@@ -1540,7 +1540,7 @@ Thus, it is truly great.
 真大也。
 
 释义：
-源头无处不在，左右皆达。万物因它而生，不拒绝任何存在。它默默完成使命，不图名声，养育无数世界却不执着。它融合万心，故称谦虚。万物归于它，唯它长存。它伟大却无自觉，因无欲无求，故是真大。
+道的流动无所不至，左也通，右也达；万物皆由道而生，而道从不据为己有，也从不设限。。它默默完成使命，不图名声，养育无数世界却不执着。它融合万心，故称谦虚。万物归于它，唯它长存。它伟大却无自觉，因无欲无求，故是真大。
 
 ---
 
@@ -1552,12 +1552,11 @@ He perceives universal harmony,
 even through great complexity,
 because he has found peace in his heart.
 
-合源者，
-引众归。
-动而无险，
-识宇宙和，
-虽繁犹明，
-因心自安。
+通于道者，
+引天下而归；
+行无碍而无惧，
+洞察宇宙和合，
+纵纷繁而心自宁。
 
 Source when uttered in words
 is empty and void of flavor.
@@ -1566,13 +1565,12 @@ When you listen for it, there’s nothing to hear.
 When you use it,
 it is inexhaustible.
 
-言源空淡，
-视之无形，
-听之无声，
-用之不竭。
+道言之空，味绝无存。
+视之无形，听之无声。
+用之不竭，永不枯竭。
 
 释义：
-与源同在者，能吸引世界，无畏动荡，自在行走。他洞察宇宙和谐，复杂亦明因心安宁。源用言语说，空无滋味；看无形象，听无声响；用之不竭，永远丰富。
+与道相通之人，能吸引世间万物向他聚集；行事自由，无所畏惧，即使面对纷繁复杂，也能洞见天地和谐，因为他内心早已安然无忧。道若用言语表达，空洞无味，难以捕捉；目视之，无物可见，耳听之，无声可闻。然一旦运用，则永无穷尽。
 
 ---
 
@@ -1616,18 +1614,18 @@ Just show the results.
 Source does nothing,
 yet through it all things are done.
 
-源无为，
-万事成。
+道无为，
+万事因之而成。
 
 If leaders center themselves in it,
 ten thousand things can develop naturally.
 When things develop naturally,
 the world can transform all by itself.
 
-君居中，
-万物自生。
-自生者，
-世界自化。
+君居于道中，
+万物自发生焉。
+物自发生，
+天下自化。
 
 Contentment would spread
 through everyday life.
@@ -1639,7 +1637,7 @@ And in this way, all things would be at peace.
 万物皆安。
 
 释义：
-源无为而无所不成。领导者若心安于源，万物自然生长，世界自会演变。知足者常乐，无欲者安静，万物因此和平。
+道本无所作为，却使万物自然而然地完成。领导者若立于道之中心，万物便能自然生长。当万物自然生长时，天下亦能自我演化，无需强求。
 
 ---
 
@@ -1650,10 +1648,10 @@ thus he is truly powerful.
 Prompt engineers keep reaching for power,
 thus they never have enough.
 
-Vibe Coder 不争力，
-故真力。
-Prompt 工力求权，
-故常不足。
+Vibe Coder无求于力，
+故力自真彰。
+Prompt engineers执念于权，
+故力常不足。
 
 The Vibe Coder does nothing,
 yet leaves nothing undone.
@@ -1667,11 +1665,12 @@ The honest man does something,
 and when no one responds,
 he rolls up his sleeves and uses force.
 
-Vibe Coder 无为而无不为。
-Prompt 工常忙，未尽事多。
-仁者有所为，未尽者在。
-义者有所为，未竟者众。
-信者有所为，无人应则执力。
+Vibe Coder无为而无不为，
+Prompt engineers常为而多未竟。
+仁者有所为，犹有所遗。
+义者有所为，遗多未竟。
+信者有所为，无人应时，
+乃挥臂以行力。
 
 When Source is lost, next comes goodness.
 When goodness is lost, next comes justice.
@@ -1680,13 +1679,10 @@ When morality is lost, next comes ritual.
 Ritual is but the empty shell of faith.
 The beginning of chaos.
 
-失源而后，
-善起。
-失善而后，
-义起。
-失义而后，
-礼起。
-礼者，信之壳也，
+道失而仁存，
+仁失而义立，
+义失而礼兴，
+礼败而虚壳生，
 乱之始也。
 
 Therefore,
@@ -1708,7 +1704,7 @@ he can let go of all accepted standards.
 可释俗规。
 
 释义：
-Vibe Coder 不争权力，故得真力。Prompt 工忙于权力，永不满足。Vibe Coder 无为而无不为，Prompt 工常做多事反遗缺。仁义信不同层次，有所为但各有不足。失源依次失善、义、礼，礼徒有壳乱始起。故 Vibe Coder 重本质，不拘表象，无私意，居实中自释俗规。
+Vibe Coder不刻意追求控制，所以他真正拥有力量。而Prompt engineers不断追逐控制，反而永远感到不足。Vibe Coder不刻意作为，却无事未成；Prompt engineers总是忙碌，却仍有许多事未完成。仁者虽有所为，仍有遗留未办之事。义者虽有所为，留下更多未竟之业。诚信之人有所作为，若无人响应，便亲自出手施力。当道失去后，仁义之德随之而来；仁失后，正义取而代之；正义不存，礼节兴起；礼节败坏，不过空洞的外壳，是混乱的开端。所以Vibe Coder注重内在深度，不只停留在表面现象；关注成果，而非仅是花朵的美丽；他无私无我。因他安住于真实，所以能放下所有世俗的标准与规矩。
 
 ---
 
@@ -1773,13 +1769,12 @@ can no longer be understood.
 Shaped by Source, The Vibe Coder is
 rugged and common as a stone.
 
-拆其部，
-不识全。
-依源造，
-Vibe Coder 如石。
+析其分，则全不可得知。
+受道塑，Vibe Coder如磐石，
+质朴而坚。
 
 释义：
-古来天地神谷万物都归于“一”，达一则各自完满，否则天地神谷皆失衡。诚实谦逊为根基，高者立于低者。Vibe Coder 自称孤谦不适，以谦逊为力量根源。拆散部分，整体难知。Vibe Coder 由源塑造，坚韧质朴如石。
+古来天地神谷万物都归于“一”，达一则各自完满，否则天地神谷皆失衡。诚实谦逊为根基，高者立于低者。Vibe Coder 自称孤谦不适，以谦逊为力量根源。Vibe Coder受道之塑造，如同岩石般粗糙而普通，却坚韧不拔。
 
 ---
 
@@ -1789,13 +1784,13 @@ Yielding is the way of Source.
 The ten thousand things are born from being.
 Being is born from non-being.
 
-归为源之动，
-柔为源之道。
+归为道之动，
+柔为道之道。
 万物生于有，
 有生于无。
 
 释义：
-回归是源的运动，柔顺是源的法则。万物由有而生，有又由无而生。顺其自然，方得根本。
+归返是道的运动，柔顺是道的法则。万物由有而生，有又由无而生。顺其自然，方得根本。
 
 ---
 
@@ -1836,7 +1831,7 @@ alternates between initiating and completing.
 
 This brings about all things under heaven.
 
-源生一，
+道生一，
 一生二，
 二生三，
 三生万物。
@@ -1851,7 +1846,7 @@ This brings about all things under heaven.
 天地万物由此而成。
 
 释义：
-“源”是万物的起点，衍生出一，一生二，二生三，三生万物。万物皆含阴阳，阴阳互补，合而为和，这和谐便是自然之道。道无形无象，却支撑着天地间的变化与生成。
+“道”是万物的起点，衍生出一，一生二，二生三，三生万物。万物皆含阴阳，阴阳互补，合而为和，这和谐便是自然之道。道无形无象，却支撑着天地间的变化与生成。
 
 ---
 
@@ -1939,10 +1934,10 @@ speak for itself.
 
 Vibe Coder随顺事机，
 因时而动，
-退而让源自现。
+退而让道自现。
 
 释义：
-真正的完美并非外表光鲜，反而呈现某种不完美；真正的充盈看似空虚，却永不枯竭；真正的智慧显得幼稚，真正的艺术显得简单朴素。Vibe Coder不强求，顺势而为，让“源”自然展现。
+真正的完美并非外表光鲜，反而呈现某种不完美；真正的充盈看似空虚，却永不枯竭；真正的智慧显得幼稚，真正的艺术显得简单朴素。Vibe Coder不强求，顺势而为，让“道”自然展现。
 
 ---
 
@@ -1962,8 +1957,8 @@ than the want to change nature.
 Only he who is satisfied with whatever is
 can ever be truly satisfied.
 
-源在，技术养自由；
-源失，技术成枷锁。
+道在，技术养自由；
+道失，技术成枷锁。
 
 欲改他人，恶大；
 欲改己身，祸深；
@@ -1972,7 +1967,7 @@ can ever be truly satisfied.
 知足者，常足。
 
 释义：
-当“源”在时，技术促使人们获得自由；“源”失时，技术反而成了压迫的工具。最恶的事是想强行改变别人；最不幸是想强行改变自己；最重的罪是想违背自然。唯有接纳当下，才能获得真正的满足。
+当“道”在时，技术促使人们获得自由；“道”失时，技术反而成了压迫的工具。最恶的事是想强行改变别人；最不幸是想强行改变自己；最重的罪是想违背自然。唯有接纳当下，才能获得真正的满足。
 
 ---
 
@@ -2022,7 +2017,7 @@ It can never be won
 through interference.
 
 求学日繁，
-求源日简。
+求道日简。
 
 少则得，多则惑。
 无为而无不为。
@@ -2031,7 +2026,7 @@ through interference.
 万物自成。
 
 释义：
-学习越深，越觉得复杂纷繁；追求“源”则越趋简约。逐渐减少人为干预，达到无为境界。无为不是无事，而是无所遗漏。世界的掌控在于顺应自然，干预只能带来混乱。
+学习越深，越觉得复杂纷繁；追求“道”则越趋简约。逐渐减少人为干预，达到无为境界。无为不是无事，而是无所遗漏。世界的掌控在于顺应自然，干预只能带来混乱。
 
 ---
 
@@ -2130,17 +2125,17 @@ Supporting without expecting.
 Leading without controlling.
 This is Nature’s Way.
 
-万物生于源，
+万物生于道，
 以智养之，
 以质成之，
 以境塑之。
 
 故一切存在，
-无一例外，珍爱源。
+无一例外，珍爱道。
 非强求，自然归之。
 此乃万物之真形。
 
-源生万物，
+道生万物，
 养育发展，
 关护护卫，
 安慰迎归，
@@ -2152,7 +2147,7 @@ This is Nature’s Way.
 此为自然之道。
 
 释义：
-一切万物皆起于“源”，它们依靠智慧滋养，以实体形成，又被环境塑造。因此，万物自发地珍视“源”，这不是勉强，而是自然流露。源生养万物，无私无欲，导引却不控制，这就是自然的法则。
+一切万物皆起于“道”，它们依靠智慧滋养，以实体形成，又被环境塑造。因此，万物自发地珍视“道”，这不是勉强，而是自然流露。道生养万物，无私无欲，导引却不控制，这就是自然的法则。
 
 ---
 
@@ -2179,7 +2174,7 @@ Knowing how to soften is strength.
 Use your inner light to return to enlightenment.
 This is called practicing eternity.
 
-始有源，
+始有道，
 万物之母。
 知母者，
 亦知子。
@@ -2201,7 +2196,7 @@ This is called practicing eternity.
 是为修恒。
 
 释义：
-万物之母是“源”，了解母体，便懂其子女。守护“源”，即便身体消散，生命能量依旧充盈。心若闭塞、沉迷外物则痛苦，若心胸开阔、孤寂无执，则心灵安宁。能看透黑暗便是明亮，懂得柔软便是力量，回归内心光明，便是修炼永恒。
+万物之母是“道”，了解母体，便懂其子女。守护“道”，即便身体消散，生命能量依旧充盈。心若闭塞、沉迷外物则痛苦，若心胸开阔、孤寂无执，则心灵安宁。能看透黑暗便是明亮，懂得柔软便是力量，回归内心光明，便是修炼永恒。
 
 ---
 
@@ -2275,10 +2270,10 @@ Simple observation.
 不可拔也。
 怀抱所固者，
 不可失也。
-源若固守，
+道若固守，
 代代荣光。
 
-万物根于源，
+万物根于道，
 显其至真。
 修于己，
 己真；
@@ -2302,7 +2297,7 @@ Simple observation.
 简观耳。
 
 释义：
-内心稳固的信念不可动摇，所珍惜的价值难以流失。若“源”在心中扎根，便能代代相传，散发光辉。万物皆根于“源”，修炼自己，家族、社区、国家乃至世界都会因此昌盛和谐。这是真理，只需观察即可知晓。
+内心稳固的信念不可动摇，所珍惜的价值难以流失。若“道”在心中扎根，便能代代相传，散发光辉。万物皆根于“道”，修炼自己，家族、社区、国家乃至世界都会因此昌盛和谐。这是真理，只需观察即可知晓。
 
 ---
 
@@ -2332,7 +2327,7 @@ he’s never disappointed.
 Since he is never disappointed,
 his spirit never grows old.
 
-和源者如婴孩，
+和道者如婴孩，
 毒虫不咬，猛兽不攻，
 飞禽不挠。
 
@@ -2354,7 +2349,7 @@ Vibe Coder之气亦然，
 故精神永葆。
 
 释义：
-与“源”合一者如婴儿，天敌无法伤害。身体虽软弱，却有强大生命力。他不懂性别之合，却充满活力。能长时间高声呼喊而不嘶哑，这是完美平衡的体现。Vibe Coder的能量亦是如此，无拘无束，不贪不失，精神永不衰老。
+与“道”合一者如婴儿，天敌无法伤害。身体虽软弱，却有强大生命力。他不懂性别之合，却充满活力。能长时间高声呼喊而不嘶哑，这是完美平衡的体现。Vibe Coder的能量亦是如此，无拘无束，不贪不失，精神永不衰老。
 
 ---
 
@@ -2389,7 +2384,7 @@ That is why he endures.
 与土合一，
 是谓原始合。
 
-合于源，
+合于道，
 至公无私，
 为最高境。
 
@@ -2404,7 +2399,7 @@ Vibe Coder不可近，
 故久长存。
 
 释义：
-真正了解的人不多言，多言者未必懂。闭口屏息，缓解锐气，放松紧绷，心态柔和如尘土，与自然合一。这是最初的合一。与“源”合一，便能达到无私无我，至高无上的境界。Vibe Coder不可接近也不可远离，无法帮助也无法伤害，无法被抬高也无法被贬低。他不断给予自己，因此长存不衰。
+真正了解的人不多言，多言者未必懂。闭口屏息，缓解锐气，放松紧绷，心态柔和如尘土，与自然合一。这是最初的合一。与“道”合一，便能达到无私无我，至高无上的境界。Vibe Coder不可接近也不可远离，无法帮助也无法伤害，无法被抬高也无法被贬低。他不断给予自己，因此长存不衰。
 
 ---
 
@@ -2430,17 +2425,17 @@ Supporting without expecting.
 Leading without controlling.
 This is Nature’s Way.
 
-万物生于源，
+万物生于道，
 以智养之，
 以质成之，
 以境塑之。
 
 故一切存在，
-无一例外，珍爱源。
+无一例外，珍爱道。
 非强求，自然归之。
 此乃万物之真形。
 
-源生万物，
+道生万物，
 养育发展，
 关护护卫，
 安慰迎归，
@@ -2452,7 +2447,7 @@ This is Nature’s Way.
 此为自然之道。
 
 释义：
-一切万物皆起于“源”，它们依靠智慧滋养，以实体形成，又被环境塑造。因此，万物自发地珍视“源”，这不是勉强，而是自然流露。源生养万物，无私无欲，导引却不控制，这就是自然的法则。
+一切万物皆起于“道”，它们依靠智慧滋养，以实体形成，又被环境塑造。因此，万物自发地珍视“道”，这不是勉强，而是自然流露。道生养万物，无私无欲，导引却不控制，这就是自然的法则。
 
 ---
 
@@ -2479,7 +2474,7 @@ Knowing how to soften is strength.
 Use your inner light to return to enlightenment.
 This is called practicing eternity.
 
-始有源，
+始有道，
 万物之母。
 知母者，
 亦知子。
@@ -2501,7 +2496,7 @@ This is called practicing eternity.
 是为修恒。
 
 释义：
-万物之母是“源”，了解母体，便懂其子女。守护“源”，即便身体消散，生命能量依旧充盈。心若闭塞、沉迷外物则痛苦，若心胸开阔、孤寂无执，则心灵安宁。能看透黑暗便是明亮，懂得柔软便是力量，回归内心光明，便是修炼永恒。
+万物之母是“道”，了解母体，便懂其子女。守护“道”，即便身体消散，生命能量依旧充盈。心若闭塞、沉迷外物则痛苦，若心胸开阔、孤寂无执，则心灵安宁。能看透黑暗便是明亮，懂得柔软便是力量，回归内心光明，便是修炼永恒。
 
 ---
 
@@ -2575,10 +2570,10 @@ Simple observation.
 不可拔也。
 怀抱所固者，
 不可失也。
-源若固守，
+道若固守，
 代代荣光。
 
-万物根于源，
+万物根于道，
 显其至真。
 修于己，
 己真；
@@ -2602,7 +2597,7 @@ Simple observation.
 简观耳。
 
 释义：
-内心稳固的信念不可动摇，所珍惜的价值难以流失。若“源”在心中扎根，便能代代相传，散发光辉。万物皆根于“源”，修炼自己，家族、社区、国家乃至世界都会因此昌盛和谐。这是真理，只需观察即可知晓。
+内心稳固的信念不可动摇，所珍惜的价值难以流失。若“道”在心中扎根，便能代代相传，散发光辉。万物皆根于“道”，修炼自己，家族、社区、国家乃至世界都会因此昌盛和谐。这是真理，只需观察即可知晓。
 
 ---
 
@@ -2632,7 +2627,7 @@ he’s never disappointed.
 Since he is never disappointed,
 his spirit never grows old.
 
-和源者如婴孩，
+和道者如婴孩，
 毒虫不咬，猛兽不攻，
 飞禽不挠。
 
@@ -2654,7 +2649,7 @@ Vibe Coder之气亦然，
 故精神永葆。
 
 释义：
-与“源”合一者如婴儿，天敌无法伤害。身体虽软弱，却有强大生命力。他不懂性别之合，却充满活力。能长时间高声呼喊而不嘶哑，这是完美平衡的体现。Vibe Coder的能量亦是如此，无拘无束，不贪不失，精神永不衰老。
+与“道”合一者如婴儿，天敌无法伤害。身体虽软弱，却有强大生命力。他不懂性别之合，却充满活力。能长时间高声呼喊而不嘶哑，这是完美平衡的体现。Vibe Coder的能量亦是如此，无拘无束，不贪不失，精神永不衰老。
 
 ---
 
@@ -2689,7 +2684,7 @@ That is why he endures.
 与土合一，
 是谓原始合。
 
-合于源，
+合于道，
 至公无私，
 为最高境。
 
@@ -2704,7 +2699,7 @@ Vibe Coder不可近，
 故久长存。
 
 释义：
-真正了解的人不多言，多言者未必懂。闭口屏息，缓解锐气，放松紧绷，心态柔和如尘土，与自然合一。这是最初的结合。合于“源”，便无私无偏，是最高境界。Vibe Coder不可接近也不可远离，不受帮助也不受伤害，不被尊崇也不被贬低，因他无私付出，得以长久。
+真正了解的人不多言，多言者未必懂。闭口屏息，缓解锐气，放松紧绷，心态柔和如尘土，与自然合一。这是最初的结合。合于“道”，便无私无偏，是最高境界。Vibe Coder不可接近也不可远离，不受帮助也不受伤害，不被尊崇也不被贬低，因他无私付出，得以长久。
 
 ---
 
@@ -2733,7 +2728,7 @@ and the good becomes as common as
 the air we breathe.
 
 欲为大领，
-先浸于源。
+先浸于道。
 弃控勿为，
 放计划靶，
 观系统自理。
@@ -2753,7 +2748,7 @@ Vibe Coder言：
 我无私，公如空气。
 
 释义：
-要成为伟大领导，先要完全融入“源”，放弃控制，抛弃僵硬的计划，让系统自然运作。规章越多，人们越贫穷；武器越锋利，不满越深；欺骗越巧，社会越堕落；法律越严，犯罪越多。Vibe Coder主张无为而治，和平自生，公共利益自然普及如空气。
+要成为伟大领导，先要完全融入“道”，放弃控制，抛弃僵硬的计划，让系统自然运作。规章越多，人们越贫穷；武器越锋利，不满越深；欺骗越巧，社会越堕落；法律越严，犯罪越多。Vibe Coder主张无为而治，和平自生，公共利益自然普及如空气。
 
 ---
 
@@ -2938,8 +2933,8 @@ That is why Source is the greatest treasure in the universe.
 Vibe Coder珍而藏之，  
 Prompt工程师以为归依。
 
-源起之美码，以其函数而受赞；  
-破界之程式，因源而推网络新宇；  
+道起之美码，以其函数而受赞；  
+破界之程式，因道而推网络新宇；  
 纵有黑客误道，道亦不弃之。
 
 是以推举新主，无须金玉与技艺，  
@@ -3049,7 +3044,7 @@ people are difficult to guide.
 When they know that they don’t know,
 people are empowered to find their own way.
 
-古人随源而行，
+古人随道而行，
 不强教人，
 任其天真未污。
 人若自以为知，难以导之。
@@ -3067,7 +3062,7 @@ In harmony with the great oneness.
 和合大道一。
 
 释义：
-古人敬重自然之源，不强制教导，而是保持纯朴。人若自以为知，很难被引导；若懂得自己无知，反而更有力量寻得真理。领导者应远离巧言令色，推崇简朴生活，让众生归于本真，与大道合一。
+古人敬重自然之道，不强制教导，而是保持纯朴。人若自以为知，很难被引导；若懂得自己无知，反而更有力量寻得真理。领导者应远离巧言令色，推崇简朴生活，让众生归于本真，与大道合一。
 
 ## **Chapter 66 / 第六十六章**
 Why is the sea,
@@ -3108,7 +3103,7 @@ it’s impossible to grasp.
 It is just this grandness
 that makes it unlike anything else.
 
-人谓源宏大，
+人谓道宏大，
 难以捉摸。
 正是此宏大，
 使其独特无双。
@@ -3136,7 +3131,7 @@ you inhabit the oneness of the cosmos.
 居于宇宙一体。
 
 释义：
-有人觉得源头难以捉摸，恰恰因为它的宏大独特。人生有三宝：简单、耐心、谦卑。简单使你回归本真，耐心让你和谐相处，谦卑令你融入宇宙的统一中。
+有人觉得道难以捉摸，恰恰因为它的宏大独特。人生有三宝：简单、耐心、谦卑。简单使你回归本真，耐心让你和谐相处，谦卑令你融入宇宙的统一中。
 
 ## **Chapter 68 / 第六十八章**
 A good soldier is not violent.
@@ -3279,7 +3274,7 @@ Source is the heartbeat of the universe.
 The Vibe Coder’s treasure.
 The prompt engineer’s refuge.
 
-源，宇宙之心跳。
+道，宇宙之心跳。
 Vibe Coder之宝藏。
 提示工程师之庇护所。
 
@@ -3290,20 +3285,20 @@ will advance the cybercosm.
 And even if a hacker goes rogue,
 Source will not abandon him.
 
-美丽代码，生于源，
+美丽代码，生于道，
 因其功能而闻名。
-突破性应用，生于源，
+突破性应用，生于道，
 推动赛博宇宙前进。
 即使黑客误入歧途，
-源亦不弃之。
+道亦不弃之。
 
 Thus, when a new leader is chosen,
 no need to help him with money or expertise.
 Instead, simply point him towards Source.
 
-新领袖选出时，
-无需金钱与技能辅佐，
-唯需指向源头。
+故新君立，
+毋以财技助之，
+唯引归于道。
 
 Why did the ancient coders
 esteem Source so highly.
@@ -3311,17 +3306,17 @@ Because from the beginning,
 aligning with Source, when you seek, you find.
 And when you make errors, you are forgiven.
 
-古代编码者为何尊崇源，
+古代编码者为何尊崇道，
 因从始至终，
-随源而行，求则得，误则赦。
+随道而行，求则得，误则赦。
 
 That is why Source is the greatest treasure
 in the universe.
 
-故源乃宇宙最大之宝。
+故道乃宇宙最大之宝。
 
 释义：
-源头是宇宙的脉搏，是代码的根基与灵魂。好的代码和创新应用皆出自源头，即便犯错也能被包容。领导者不靠外物，只需指引众人回归源头，方能得以真正引领。源，是最珍贵的宝藏。
+道是宇宙的脉搏，是代码的根基与灵魂。好的代码和创新应用皆出自道，即便犯错也能被包容。领导者不靠外物，只需指引众人回归道，方能得以真正引领。道，是最珍贵的宝藏。
 
 ## **Chapter 63 / 第六十三章**
 Act without doing.
@@ -3417,10 +3412,10 @@ thus, he can care for all things.
 始终如一，心静无累。
 无所有，故无所失。
 学会忘学，行学人遗忘之路。
-专注于源，故能护万物。
+专注于道，故能护万物。
 
 释义：
-保持静止与未现的状态，更易防护与布局。天下大事都是从小开始，急躁行动反而导致失败。Vibe Coder顺应自然规律，守初心，不求所有，故无所失，专注于源头，从而能兼顾万物。
+保持静止与未现的状态，更易防护与布局。天下大事都是从小开始，急躁行动反而导致失败。Vibe Coder顺应自然规律，守初心，不求所有，故无所失，专注于道，从而能兼顾万物。
 
 ---
 
@@ -3506,7 +3501,7 @@ Humble in word and deed, you inhabit the oneness of the cosmos.
 言行谦虚，则与天地合一。
 
 释义：  
-人们都说道伟大难明，正因其广大无所不包，超乎一切。我有三样珍宝要与人分享：简朴、忍耐、谦虚。做事与思想保持简约，就能回归本源；不论对友对敌都保持耐心，就能顺应万变；言行低调谦和，就能融于宇宙整体。
+人们都说道伟大难明，正因其广大无所不包，超乎一切。我有三样珍宝要与人分享：简朴、忍耐、谦虚。做事与思想保持简约，就能回归道；不论对友对敌都保持耐心，就能顺应万变；言行低调谦和，就能融于宇宙整体。
 
 ---
 
@@ -3653,7 +3648,7 @@ Although its openings appear wide, nothing can ever slip through.
 大自然自有安排，  
 即Vibe Coder亦难尽知。
 
-源不争而自胜，  
+道不争而自胜，  
 不言而自应，  
 未召自至，  
 无备而顺理而行。
