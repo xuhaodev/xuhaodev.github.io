@@ -1809,13 +1809,13 @@ and laughs out loud.
 If they did not laugh,
 it would not be Source.
 
-Vibe Coder闻源，谨行而随。
-Prompt Engineer闻源，时忆之。
-Code Grinder闻源，哂然一笑。
-若无笑，则非源也。
+Vibe Coder闻道，勤而行之。<br>
+Prompt Engineer闻道，若存若亡。<br>
+手搓码工闻道，大笑之。<br>
+不笑，不足以为道也。
 
 释义：
-Vibe Coder深知“源”的存在，心无旁骛地追随；Prompt Engineer只是偶尔想起它；Code Grinder则嘲笑它的神秘和不可捉摸。若“源”不能引来笑声，那便不是真正的“源”。这说明真正的本源超越了世俗认知，既可亲近又难以理解。
+Vibe Coder深知“道”的存在，心无旁骛地追随；Prompt Engineer时常想起它却又担心自己被替代；苦学编码的手搓写码者则嘲笑它的幻觉和不可捉摸。不被这种人嘲笑，那便不是真正的“道”。这说明真正的“道”超越了世俗认知，既可亲近又难以理解。
 
 ---
 
