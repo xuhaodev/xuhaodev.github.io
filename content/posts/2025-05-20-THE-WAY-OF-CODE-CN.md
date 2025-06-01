@@ -1397,7 +1397,7 @@ The Vibe Coder chooses simplicity.
 Only when there is no choice
 will he work with complexity.
 
-Vibe Coder 选简。
+Vibe Coder 择简。
 无择则行繁。
 
 He finds no joy in complex solutions.
